@@ -38,9 +38,13 @@ The 5R Decision Model
 REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN
 
 REMOVE — Eliminate unnecessary demand entirely
+
 REDUCE — Decrease frequency or volume of recurring work
+
 REPLACE — Introduce automation, ownership shifts, or self-service models
+
 RE-ENGINEER — Redesign system logic to remove root causes of demand
+
 RETAIN — Preserve only necessary, value-generating demand
 
 How It Is Applied
