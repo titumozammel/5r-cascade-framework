@@ -54,10 +54,11 @@ Then apply the cascade from top to bottom, starting at REMOVE.
 
 Target Outcome
 
-Less than 5% of team time spent on recurring unplanned work
-Reduced operational noise
-Increased execution focus
-Improved system predictability
+- Less than 5% of team time spent on recurring unplanned work
+- Reduced operational noise
+- Increased execution focus
+- Improved system predictability
+
 Core Principle
 
 Energy—not time—is the real constraint.
@@ -66,26 +67,20 @@ Applications
 
 The 5R Cascade applies across:
 
-IT operations
-
-Business operations
-
-HR systems
-
-Finance workflows
-
-Customer support systems
-
-Supply chain processes
+- IT operations
+- Business operations
+- HR systems
+- Finance workflows
+- Customer support systems
+- Supply chain processes
 
 Expected Impact
-
 Organizations applying this model typically move toward:
 
-Fewer recurring operational issues
-Reduced dependency chains
-Higher execution bandwidth
-More stable operational flow
+- Fewer recurring operational issues
+- Reduced dependency chains
+- Higher execution bandwidth
+- More stable operational flow
 
 About
 
