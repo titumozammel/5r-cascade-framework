@@ -67,11 +67,17 @@ Applications
 The 5R Cascade applies across:
 
 IT operations
+
 Business operations
+
 HR systems
+
 Finance workflows
+
 Customer support systems
+
 Supply chain processes
+
 Expected Impact
 
 Organizations applying this model typically move toward:
