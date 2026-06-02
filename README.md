@@ -1,100 +1,193 @@
-# 5R Cascade Framework
+# 5R Cascade
 
 **A Framework for Fireproofing Operations, Services, and Management Systems**
 
-`FIREFIGHTING → FIREPROOFING → OPERATIONAL SILENCE`
+The 5R Cascade is a decision framework for reducing recurring operational demand, recovering human energy, and restoring organizational flow.
+
+Most organizations focus on responding faster.
+
+The 5R Cascade focuses on eliminating the need to respond in the first place.
+
+**FIREFIGHTING → FIREPROOFING → OPERATIONAL SILENCE**
 
 ---
 
-## The Core Question
-
-> *"Does this even need to exist?"*
-
-Not: *"How do we solve this faster?"*
-
----
-
-## The 5R Flow
-REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN → OPERATIONAL SILENCE
-
-text
-
----
-
-## What Problem Does This Solve?
+## The Operational Problem
 
 Most teams are busy. Few are effective.
 
-- Incidents repeat
-- Queues expand
-- Interruptions multiply
-- Activity increases
-- Progress stalls
+Recurring demand creates a cycle of:
 
-**The hidden constraint is not systems — it is human energy.**
+* Incidents
+* Interruptions
+* Queue expansion
+* Firefighting
+* Operational noise
+
+Speed without flow creates chaos faster.
+
+Human energy is the only constraint that does not scale with budget.
 
 ---
 
-## Target State: Operational Silence
+## The Goal: Operational Silence
 
 Operational silence does not mean zero activity.
 
 It means recurring operational noise no longer dominates:
-- Human attention (individual level)
-- Operational capacity (system level)
 
-**The Metric:** Less than 5% of team time spent on recurring unplanned demand.
+* Human attention
+* Operational capacity
+* Organizational flow
 
----
+### Target Metric
 
-## Key Principles
+**Less than 5% of team time spent on recurring unplanned demand.**
 
-| Principle | Meaning |
-|-----------|---------|
-| Demand elimination | Not demand management |
-| Human energy | The real operational constraint |
-| Reduce handoffs | Every handoff is a potential interruption |
-| Fireproofing | Not faster firefighting |
-
----
-
-## Protective Friction
-
-Some friction exists to prevent catastrophic failure. Do not eliminate it. **Contain it.**
-
-- **ACCEPT** — Acknowledge it must exist
-- **ISOLATE** — Separate from main flow
-- **BUFFER** — Absorb variability
-
-**The Rule:** Eliminate waste friction. Preserve protective friction.
+| Before 5R | After 5R |
+| --- | --- |
+| 80% recurring noise | <5% recurring noise |
+| 20% chosen work | >95% chosen work |
+| Firefighting | Fireproofed |
+| Human energy drained | Human energy recovered |
 
 ---
 
-## Side Rules
+## The 5R Decision Hierarchy
 
-- Never reduce what you can remove
-- Never replace what you can reduce
-- Always start at the top
-- Re-engineering is last resort
+Always start at the top.
+REMOVE
+↓
+REDUCE
+↓
+REPLACE
+↓
+RE-ENGINEER
+↓
+RETAIN
+↓
+OPERATIONAL SILENCE
+
+text
+
+### REMOVE
+Eliminate unnecessary demand entirely.
+
+### REDUCE
+Shrink frequency or volume without changing the underlying logic.
+
+### REPLACE
+Shift execution through self-service, automation, or improved ownership.
+
+### RE-ENGINEER
+Redesign operating logic so demand structurally disappears.
+
+### RETAIN
+Preserve and monitor what remains necessary.
+
+If demand returns, restart the cascade at REMOVE.
 
 ---
 
-## Metrics That Matter
+## Core Rules
 
-| Misleading Metrics | Real Fireproofing Metrics |
-|--------------------|---------------------------|
-| SLA adherence | Demand eliminated |
-| Tickets closed | Repeat incidents reduced |
-| Average handle time | Handoffs reduced |
-| Queue speed | Unplanned work reduced |
-
-**Efficiency does not prove elimination.**
+* Never reduce what you can remove
+* Never replace what you can reduce
+* Always start at the top
+* Re-engineering is the last resort
+* Optimize system-wide burden, not local efficiency
+* Eliminate waste friction
+* Preserve protective friction
 
 ---
 
-## Proven Within AKG IT
+## Context Determines Focus
 
-This framework has been practically applied within AKG IT, eliminating a recurring multi-layer dependency chain and recovering human energy for higher-value work.
+The 5R Cascade is constant. How you apply it depends on your context.
+
+| If you are... | Lead with... |
+| --- | --- |
+| On fire daily | REDUCE first |
+| Compliance / safety critical | Preserve PROTECTIVE FRICTION |
+| Need speed | Consider REPLACE |
+| Full autonomy + low risk | Start with REMOVE |
+| Logic is broken | RE-ENGINEER as last resort |
+| Already stable | RETAIN + audit |
+
+**Same question. Different context. Different answer.**
+
+---
+
+## Continuous Constraint Reduction
+
+The 5R Cascade is not a cost-reduction tool.
+
+It is a continuous constraint-reduction engine.
+Constraint
+↓
+Friction
+↓
+Delay
+↓
+Energy Drain
+↓
+Execution Failure
+
+text
+
+Apply 5R repeatedly to reduce constraints, restore flow, and recover human energy.
+
+---
+
+## Fireproofing vs Firefighting
+
+| Firefighting | Fireproofing |
+| --- | --- |
+| Faster response | Demand elimination |
+| More tickets | Fewer triggers |
+| Queue management | Queue removal |
+| Human dependency | Structural simplification |
+| Local optimization | Flow optimization |
+
+The future advantage is not faster firefighting.
+
+It is operational fireproofing.
+
+---
+
+## The Metrics Trap
+
+### Misleading Metrics
+* SLA adherence
+* Tickets closed
+* Average handle time
+* Queue speed
+
+### Real Fireproofing Metrics
+* Demand eliminated
+* Repeat incidents reduced
+* Handoffs reduced
+* Unplanned work reduced
+
+Efficiency does not prove elimination.
+
+---
+
+## The Heartbeat Metric
+
+Human handoffs are the leading indicator of recurring operational noise.
+
+Every handoff is a potential interruption point.
+
+**Reduce handoffs → Reduce fragility → Recover human energy.**
+
+---
+
+## Proven in Practice
+
+The 5R Cascade has been applied to eliminate recurring multi-layer dependency chains, reduce operational noise, and recover human energy for higher-value work.
+
+The framework provides a practical approach to operational fireproofing and continuous constraint reduction.
 
 ---
 
@@ -104,6 +197,18 @@ This framework has been practically applied within AKG IT, eliminating a recurri
 2. Quantify operational drag
 3. Apply the 5R hierarchy
 4. Measure operational silence
+5. Repeat continuously
+
+---
+
+## Two Lenses for Application
+
+| Lens | Formula | Best for |
+| --- | --- | --- |
+| **Quick Wins** | Priority = Frequency × Friction × Reduction Feasibility | Immediate operational relief |
+| **Deep Impact** | Demand Weight = Frequency × Human Minutes × Labor Cost × Delay Impact | Long-term constraint reduction |
+
+**Quick Wins → Build trust → Fund Deep Impact → Repeat**
 
 ---
 
@@ -121,4 +226,12 @@ This framework is shared under the MIT License.
 
 ---
 
-*Design systems that stay silent — so people can think again.*
+## The 5R Question
+
+> **"Does this even need to exist?"**
+
+*Same question. Different context. Different answer.*
+
+---
+
+*The 5R Cascade — Design systems that stay silent.*
