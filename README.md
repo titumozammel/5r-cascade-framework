@@ -1,8 +1,10 @@
 5R Cascade
 
-Stop Managing Chaos. Start Engineering Silence.
+Stop Managing Chaos. 
+Start Engineering Silence.
 
-Most orgs optimize for speed. We optimize for fewer reasons to respond.
+Most orgs optimize for speed. 
+We optimize for fewer reasons to respond.
 
 The 5R Cascade is an open-source systems framework that helps organizations identify and eliminate recurring operational demand, creating more capacity without hiring, reducing management overhead, and improving operational predictability.
 
@@ -78,6 +80,7 @@ Fewer recurring operational issues
 Reduced dependency chains
 Higher execution bandwidth
 More stable operational flow
+
 About
 
 Built for engineering teams and organizations seeking to reduce operational noise, improve system flow, and restore organizational capacity.
