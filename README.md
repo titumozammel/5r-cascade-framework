@@ -17,7 +17,6 @@ Reduce recurring work. Recover team capacity. Restore organizational flow.
 Operational silence = minimal recurring unplanned work + restored flow + recovered human energy.
 
 What This Solves
-
 Modern organizations repeatedly absorb the same operational load:
 
 Incidents and interruptions
@@ -42,8 +41,8 @@ REDUCE — Decrease frequency or volume of recurring work
 REPLACE — Introduce automation, ownership shifts, or self-service models
 RE-ENGINEER — Redesign system logic to remove root causes of demand
 RETAIN — Preserve only necessary, value-generating demand
-How It Is Applied
 
+How It Is Applied
 The process starts by identifying recurring operational demand:
 
 Repeated incidents or escalations
@@ -54,6 +53,7 @@ Work that reappears in predictable cycles
 Then apply the cascade from top to bottom, starting at REMOVE.
 
 Target Outcome
+
 Less than 5% of team time spent on recurring unplanned work
 Reduced operational noise
 Increased execution focus
