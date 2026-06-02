@@ -17,18 +17,19 @@ Reduce recurring work. Recover team capacity. Restore organizational flow.
 Operational silence = minimal recurring unplanned work + restored flow + recovered human energy.
 
 What This Solves
+
 Modern organizations repeatedly absorb the same operational load:
 
-Incidents and interruptions
-Approval chains and escalations
-Manual coordination overhead
-Repeated operational firefighting
+- Incidents and interruptions
+- Approval chains and escalations
+- Manual coordination overhead
+- Repeated operational firefighting
 
 This leads to systems where:
 
-Work grows faster than capacity
-Teams remain reactive instead of strategic
-Operational noise consumes execution energy
+- Work grows faster than capacity
+- Teams remain reactive instead of strategic
+- Operational noise consumes execution energy
 
 The 5R Cascade addresses this at the system level.
 
@@ -43,12 +44,13 @@ RE-ENGINEER — Redesign system logic to remove root causes of demand
 RETAIN — Preserve only necessary, value-generating demand
 
 How It Is Applied
+
 The process starts by identifying recurring operational demand:
 
-Repeated incidents or escalations
-Approval bottlenecks and dependency chains
-Manual coordination loops
-Work that reappears in predictable cycles
+- Repeated incidents or escalations
+- Approval bottlenecks and dependency chains
+- Manual coordination loops
+- Work that reappears in predictable cycles
 
 Then apply the cascade from top to bottom, starting at REMOVE.
 
