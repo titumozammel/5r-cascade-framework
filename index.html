@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="description" content="The 5R Cascade is an open-source systems framework that helps organizations identify and eliminate recurring operational demand — creating more capacity without hiring, reducing management overhead, and improving operational predictability.">
+    <meta name="author" content="Md Mozammel Hoque">
+    <meta name="keywords" content="5R Cascade, operational silence, demand elimination, fireproofing, operations framework, human energy constraint">
+    <title>5R Cascade — Engineering Silence in Operations</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #fafafa;
+            color: #1a1a2e;
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            line-height: 1.5;
+            scroll-behavior: smooth;
+        }
+
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+
+        /* Typography */
+        h1 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            letter-spacing: -0.02em;
+            line-height: 1.2;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, #1e1e2f 0%, #2d2d44 100%);
+            background-clip: text;
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+
+        .badge {
+            display: inline-block;
+            background: #0a0a1a;
+            color: #e0e0ff;
+            font-size: 0.8rem;
+            font-weight: 600;
+            padding: 0.25rem 0.75rem;
+            border-radius: 40px;
+            margin-bottom: 1.5rem;
+            letter-spacing: 0.3px;
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin: 2rem 0 1rem 0;
+            letter-spacing: -0.01em;
+            border-left: 4px solid #e63946;
+            padding-left: 1rem;
+        }
+
+        h3 {
+            font-size: 1.3rem;
+            font-weight: 600;
+            margin: 1.5rem 0 0.75rem 0;
+            color: #1e1e2f;
+        }
+
+        .flow-sequence {
+            background: #0f172a;
+            color: #f1f5f9;
+            padding: 1.25rem;
+            border-radius: 24px;
+            text-align: center;
+            font-weight: 600;
+            font-size: 1.1rem;
+            margin: 1.5rem 0;
+            letter-spacing: 0.3px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.05);
+        }
+
+        .flow-arrow {
+            color: #f97316;
+            font-weight: 800;
+        }
+
+        .pillar-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 1.5rem 0;
+        }
+
+        .pillar {
+            background: white;
+            border-radius: 20px;
+            padding: 1rem 1.2rem;
+            flex: 1;
+            min-width: 160px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+            border: 1px solid #e2e8f0;
+            font-weight: 500;
+        }
+
+        .decision-model {
+            background: #ffffff;
+            border-radius: 28px;
+            padding: 1.5rem;
+            margin: 1.5rem 0;
+            box-shadow: 0 4px 14px rgba(0,0,0,0.02);
+            border: 1px solid #eef2ff;
+        }
+
+        .model-step {
+            font-weight: 700;
+            font-family: monospace;
+            font-size: 1.2rem;
+            color: #b91c1c;
+        }
+
+        ul, .list {
+            margin: 1rem 0 1rem 1.5rem;
+        }
+
+        li {
+            margin: 0.5rem 0;
+        }
+
+        .btn-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .btn {
+            background: #1e293b;
+            color: white;
+            text-decoration: none;
+            padding: 0.7rem 1.5rem;
+            border-radius: 60px;
+            font-weight: 500;
+            transition: 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            border: none;
+        }
+
+        .btn-primary {
+            background: #e63946;
+            color: white;
+            box-shadow: 0 2px 6px rgba(230,57,70,0.2);
+        }
+
+        .btn-primary:hover {
+            background: #c1121f;
+            transform: translateY(-2px);
+        }
+
+        .btn-outline {
+            background: transparent;
+            border: 1px solid #cbd5e1;
+            color: #1e293b;
+        }
+
+        .btn-outline:hover {
+            background: #f8fafc;
+            border-color: #94a3b8;
+        }
+
+        .contact-card {
+            background: #f1f5f9;
+            border-radius: 28px;
+            padding: 1.8rem;
+            margin: 2rem 0 1rem;
+            text-align: center;
+        }
+
+        .whatsapp-link {
+            background: #25D366;
+            color: white;
+            padding: 0.75rem 1.8rem;
+            border-radius: 60px;
+            text-decoration: none;
+            font-weight: 600;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 0.5rem;
+            transition: 0.2s;
+        }
+
+        .whatsapp-link:hover {
+            background: #128C7E;
+            transform: scale(1.02);
+        }
+
+        hr {
+            margin: 2rem 0;
+            border: 0;
+            height: 1px;
+            background: linear-gradient(to right, #e2e8f0, transparent);
+        }
+
+        footer {
+            font-size: 0.85rem;
+            text-align: center;
+            color: #475569;
+            margin-top: 2rem;
+            border-top: 1px solid #e2e8f0;
+            padding-top: 1.5rem;
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 1.2rem;
+            }
+            h1 {
+                font-size: 2rem;
+            }
+            h2 {
+                font-size: 1.5rem;
+            }
+            .flow-sequence {
+                font-size: 0.9rem;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="badge">⚡ OPEN-SOURCE SYSTEMS FRAMEWORK</div>
+    <h1>Stop Managing Chaos.<br>Start Engineering Silence.</h1>
+    <p style="font-size: 1.2rem; margin: 0.75rem 0 0.25rem; font-weight: 500;">Most organizations optimize for speed.<br>We optimize for <strong>fewer reasons to respond</strong>.</p>
+    <p style="margin: 1rem 0 0;">The 5R Cascade is an open-source systems framework that helps organizations identify and eliminate recurring operational demand — creating more capacity without hiring, reducing management overhead, and improving operational predictability.</p>
+
+    <div class="flow-sequence">
+        🔥 FIREFIGHTING   →   🧯 FIREPROOFING   →   🛠️ ENGINEERING SILENCE   →   🤫 OPERATIONAL SILENCE
+    </div>
+
+    <p style="font-size: 1.2rem; font-weight: 600; text-align: center; margin: 0.5rem 0 0;">⚡ Eliminate recurring demand. Recover human energy. Restore organizational flow.</p>
+    <p style="text-align: center; font-style: italic; color: #334155;">Operational silence = minimal recurring unplanned work + restored flow + recovered human energy.</p>
+
+    <h2>🧩 What This Solves</h2>
+    <p>Modern organizations repeatedly absorb the same operational load:</p>
+    <ul>
+        <li>Incidents and interruptions</li>
+        <li>Approval chains and escalations</li>
+        <li>Manual coordination overhead</li>
+        <li>Repeated operational firefighting</li>
+    </ul>
+    <p>This leads to systems where:</p>
+    <ul>
+        <li>Work grows faster than capacity</li>
+        <li>Teams remain reactive instead of strategic</li>
+        <li>Operational noise consumes execution energy</li>
+    </ul>
+    <p>The 5R Cascade addresses this at the system level.</p>
+
+    <h2>⚙️ The 5R Decision Model</h2>
+    <div class="decision-model">
+        <div style="font-size: 1.4rem; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.3px;">REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN</div>
+        <ul style="margin-top: 0;">
+            <li><strong>REMOVE</strong> — Eliminate unnecessary demand entirely</li>
+            <li><strong>REDUCE</strong> — Decrease frequency or volume of recurring work</li>
+            <li><strong>REPLACE</strong> — Introduce automation, ownership shifts, or self-service models</li>
+            <li><strong>RE-ENGINEER</strong> — Redesign system logic to remove root causes of demand</li>
+            <li><strong>RETAIN</strong> — Preserve only necessary, value-generating demand</li>
+        </ul>
+    </div>
+
+    <h2>🛠️ How It Is Applied</h2>
+    <p>The process starts by identifying recurring operational demand:</p>
+    <ul>
+        <li>Repeated incidents or escalations</li>
+        <li>Approval bottlenecks and dependency chains</li>
+        <li>Manual coordination loops</li>
+        <li>Work that reappears in predictable cycles</li>
+    </ul>
+    <p>Then apply the cascade from top to bottom, starting at <strong>REMOVE</strong>.</p>
+
+    <h2>🎯 Target Outcome</h2>
+    <ul>
+        <li>Less than 5% of team time spent on recurring unplanned work</li>
+        <li>Reduced operational noise</li>
+        <li>Increased execution focus</li>
+        <li>Improved system predictability</li>
+    </ul>
+
+    <h2>💡 Core Principle</h2>
+    <p><strong>Energy — not time — is the real organizational constraint.</strong></p>
+
+    <h2>📌 Applications</h2>
+    <div class="pillar-grid">
+        <div class="pillar">🏭 IT operations</div>
+        <div class="pillar">📊 Business operations</div>
+        <div class="pillar">👥 HR systems</div>
+        <div class="pillar">💰 Finance workflows</div>
+        <div class="pillar">🎧 Customer support</div>
+        <div class="pillar">🚚 Supply chain</div>
+    </div>
+
+    <h2>📈 Expected Impact</h2>
+    <ul>
+        <li>Fewer recurring operational issues</li>
+        <li>Reduced dependency chains and handoffs</li>
+        <li>Higher execution capacity</li>
+        <li>More predictable operational flow</li>
+    </ul>
+
+    <div class="btn-group">
+        <a href="https://github.com/titumozammel/5r-cascade-framework/blob/main/Md%20Mozammel%20Hoque%20%E2%80%93%205R%20Cascade.pdf" class="btn btn-primary">📄 Download 5R Cascade Framework (Free PDF)</a>
+        <a href="https://github.com/titumozammel/5r-cascade-framework" class="btn btn-outline">🐙 GitHub Repository</a>
+        <a href="https://titumozammel.github.io/5r-cascade-framework/" class="btn btn-outline">🌐 Project Site</a>
+    </div>
+
+    <div style="margin: 1rem 0; padding: 0.75rem; background: #fef9e3; border-radius: 20px; text-align: center;">
+        🔍 <strong>Services</strong> · Advisory · Implementation · Team Workshops
+    </div>
+
+    <div class="contact-card">
+        <p style="font-weight: 600; margin-bottom: 0.5rem;">📱 Bring the 5R Cascade into your organization</p>
+        <p style="margin-bottom: 1rem;">Improve operational flow, recover team capacity, and build more predictable operations.</p>
+        <a href="https://wa.me/8801713104310" class="whatsapp-link">💬 Get in Touch on WhatsApp &nbsp; +8801713104310</a>
+        <p style="margin-top: 1.2rem; font-size: 0.9rem;">Discuss: recurring operational demand patterns · workflow bottlenecks · system redesign opportunities</p>
+    </div>
+
+    <hr>
+    <footer>
+        Built for leaders and organizations seeking to reduce operational drag, increase execution capacity, and restore organizational flow.<br>
+        Creator: <strong>Md Mozammel Hoque</strong> — 5R Cascade Framework · Open-source · Free to adopt
+    </footer>
+</div>
+</body>
+</html>
