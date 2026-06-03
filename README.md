@@ -1,18 +1,20 @@
 5R Cascade
 
-Stop Managing Chaos. 
+Stop Managing Chaos.
 Start Engineering Silence.
 
-Most orgs optimize for speed. 
+Most organizations optimize for speed.
 We optimize for fewer reasons to respond.
 
 The 5R Cascade is an open-source systems framework that helps organizations identify and eliminate recurring operational demand, creating more capacity without hiring, reducing management overhead, and improving operational predictability.
 
 The 5R Cascade Flow
 
-FIREFIGHTING → FIREPROOFING → OPERATIONAL SILENCE
+FIREFIGHTING → FIREPROOFING → ENGINEERING SILENCE → OPERATIONAL SILENCE
 
-Reduce recurring work. Recover team capacity. Restore organizational flow.
+Reduce recurring work.
+Recover team capacity.
+Restore organizational flow.
 
 Operational silence = minimal recurring unplanned work + restored flow + recovered human energy.
 
@@ -67,7 +69,7 @@ Target Outcome
 
 Core Principle
 
-Energy—not time—is the real constraint.
+Energy—not time—is the real organizational constraint.
 
 Applications
 
@@ -81,13 +83,14 @@ The 5R Cascade applies across:
 - Supply chain processes
 
 Expected Impact
+
 Organizations applying this model typically move toward:
 
 - Fewer recurring operational issues
-- Reduced dependency chains
-- Higher execution bandwidth
-- More stable operational flow
+- Reduced dependency chains and handoffs
+- Higher execution capacity
+- More predictable operational flow
 
 About
 
-Built for engineering teams and organizations seeking to reduce operational noise, improve system flow, and restore organizational capacity.
+Built for leaders and organizations seeking to reduce operational drag, increase execution capacity, and restore organizational flow.
