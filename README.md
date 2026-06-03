@@ -12,8 +12,8 @@ The 5R Cascade Flow
 
 FIREFIGHTING → FIREPROOFING → ENGINEERING SILENCE → OPERATIONAL SILENCE
 
-Reduce recurring work.
-Recover team capacity.
+Eliminate recurring demand.
+Recover human energy.
 Restore organizational flow.
 
 Operational silence = minimal recurring unplanned work + restored flow + recovered human energy.
