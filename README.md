@@ -3,6 +3,8 @@
 Stop Managing Chaos.
 Start Engineering Silence.
 
+*Creator: [Md Mozammel Hoque](https://www.linkedin.com/in/mozammel-ees)*
+
 Most organizations optimize for speed.
 We optimize for fewer reasons to respond.
 
