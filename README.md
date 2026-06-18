@@ -31,7 +31,7 @@ Operational Silence (OPERATING STATE)
           ↓
 Execution Excellence (CAPABILITY)
           ↓
-Business Winning (ULTIMATE OUTCOME)
+Business Value Creation (ULTIMATE OUTCOME)
 ```
 
 ---
