@@ -61,13 +61,13 @@ They evolve through stages of operational maturity:
 | **Operational Silence** | A stable state of minimal recurring unplanned work |
 | **Execution Excellence** | The outcome of sustained operational silence |
 
-Each stage reduces operational noise and increases system predictability.
+Each stage reduces operational noise and improves system predictability.
 
 ---
 
 # The Core Philosophy
 
-## Most organizations optimize for faster response.
+Most organizations optimize for faster response.
 
 The 5R Cascade asks a different question:
 
@@ -138,7 +138,7 @@ Recovered human energy
 
 The outcome:
 
-> **People spend more energy creating value and less energy maintaining complexity.**
+> People spend more energy creating value and less energy maintaining complexity.
 
 ---
 
@@ -242,7 +242,7 @@ The principle:
 
 > **Remove waste friction. Preserve protective friction.**
 
-Protective friction should be:
+Protective friction:
 
 ```
 ACCEPT → ISOLATE → BUFFER
@@ -403,6 +403,19 @@ Reducing unnecessary handoffs improves:
 - Flow
 - Stability
 - Predictability
+
+---
+
+# Operational Silence in Practice
+
+Organizations that consistently apply the 5R Cascade achieve:
+
+- Reduced recurring operational demand
+- Recovered team capacity
+- Improved operational predictability
+- Restored organizational flow
+- Fewer interruptions and escalations
+- Increased focus on high-value work
 
 ---
 
