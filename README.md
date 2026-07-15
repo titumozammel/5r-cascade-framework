@@ -348,17 +348,29 @@ The 5R Cascade applies across:
 
 ---
 
-# Maintainer
+## Creator & Maintainer
 
 **Md Mozammel Hoque**
 
-Creator, 5R Cascade Framework
+**Management Researcher | Creator of the 5R Cascade Framework & Operational Silence Framework**
 
-LinkedIn: https://linkedin.com/in/mozammel-ees
+### Research Focus
 
-Repository: https://github.com/titumozammel/5r-cascade-framework
+* Human Energy Economics
+* Operational Excellence
+* Strategy-to-Execution Systems
+* Organizational Design
+* Continuous Constraint Reduction
 
-Website: https://www.ovinabo.com/
+### Connect
+
+* **Website:** https://www.ovinabo.com
+* **GitHub:** https://github.com/titumozammel
+* **LinkedIn:** https://www.linkedin.com/in/mozammel-ees
+
+I welcome collaboration with researchers, business owners, CEOs, boards of directors, and executive teams interested in applying the **5R Cascade Framework** and **Operational Silence Framework** to improve operational excellence, strengthen execution capability, and build sustainable organizational capability.
+
+*"Design Systems That Stay Silent."*
 
 ---
 
