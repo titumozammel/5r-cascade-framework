@@ -352,8 +352,8 @@ The 5R Cascade applies across:
 
 **Md Mozammel Hoque**
 
-**Management Researcher**
-**Creator of the 5R Cascade Framework & Operational Silence Framework**
+**Management Researcher**  
+**Creator of the 5R Cascade Framework and the Operational Silence Framework**
 
 ### Research Focus
 
@@ -376,7 +376,6 @@ The 5R Cascade applies across:
 I welcome collaboration with researchers, business owners, CEOs, boards of directors, and executive leadership teams interested in improving operational excellence, strengthening execution capability, and building resilient organizations using the **5R Cascade Framework** and **Operational Silence Framework**.
 
 > **Design Systems That Stay Silent.**
-
 
 ---
 
