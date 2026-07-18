@@ -353,7 +353,8 @@ The 5R Cascade applies across:
 **Md Mozammel Hoque**
 
 **Management Researcher**  
-**Creator of the 5R Cascade Framework and the Operational Silence Framework**
+**Founder of Human Energy Economics (HEE)**
+**Creator of the 5R Cascade Framework and Operational Silence Framework**
 
 ### Research Focus
 
