@@ -70,9 +70,9 @@
 
 **Operational Silence Framework (OSF)** is a focused framework within OEOS for systematically identifying, reducing, and preventing unnecessary recurring operational demand and the capacity consumption it creates.
 
-**3C** provides the strategic lens for determining **WHERE** intervention should occur.
+**3C** provides the strategic lens for determining **WHERE** attention and intervention should occur.
 
-**5R Cascade Framework** provides the tactical decision method for determining **HOW** the identified demand should be treated.
+**5R Cascade Framework** provides the tactical decision method for determining **HOW** identified recurring demand should be treated.
 
 ---
 
@@ -82,7 +82,7 @@
 
 ---
 
-# 3. THE CORE IDEA
+# 3. THE FRAMEWORK DISTINCTION
 
 Traditional operational improvement commonly begins with:
 
@@ -92,70 +92,70 @@ Traditional operational improvement commonly begins with:
 
 > **Should this recurring work exist at all?**
 
-This creates a fundamental shift:
+This creates the framework's foundational shift:
 
-| Conventional Improvement | 5R Cascade |
-|---|---|
-| Optimize the activity | **Question the demand** |
-| Improve the process | **Challenge why the process exists** |
-| Reduce process cost | **Reduce capacity consumption** |
-| Automate activity | **Question whether the activity should exist before automating it** |
-| Manage recurring problems | **Remove or redesign recurring causes** |
-| Save time | **Release and protect capacity** |
-| Reduce workload | **Eliminate unnecessary recurring demand** |
-| Manage complexity | **Remove unnecessary complexity** |
-| Improve workflow | **Challenge why the workflow exists** |
-| Increase efficiency | **Reduce unnecessary consumption** |
-| Continue activity better | **Determine whether it should be retained** |
+**Activity → Demand**
+
+**Optimization → Questioning**
+
+**Workload → Capacity Consumption**
+
+**Automation → Simplification**
+
+**Repeated Intervention → Recurrence Prevention**
+
+**Time Saved → Capacity Release**
+
+**Capacity Release → Capacity Conversion**
 
 ### Core Distinction
 
 **5R does not primarily ask how to perform recurring work more efficiently.**
 
-It asks:
+It first asks:
 
-**Should the demand exist?**
+> **Should the demand exist?**
 
 If it must exist:
 
-**How can its capacity consumption be reduced?**
+> **How can its capacity consumption be reduced?**
 
 If its purpose can be achieved differently:
 
-**Can it be replaced by something simpler?**
+> **Can it be replaced by something simpler?**
 
 If the demand keeps recurring:
 
-**What system condition needs to be re-engineered?**
+> **What system condition needs to be re-engineered?**
 
 And finally:
 
-**What necessary and valuable work must be retained and protected?**
+> **What necessary and valuable work must be retained and protected?**
 
 ---
 
 # 4. FOUNDATIONAL DISTINCTIONS
 
-5R depends on several concepts that must remain analytically separate.
+5R depends on keeping several concepts analytically separate.
 
 | Concept | Meaning | Critical Distinction |
 |---|---|---|
 | **Demand** | Work or requirements placed on organizational capacity | Demand ≠ work performed |
 | **Unnecessary Demand** | Demand that does not need to exist in its current form | ≠ all demand |
 | **Recurring Demand** | Demand repeatedly arising over time | ≠ automatically unnecessary |
-| **Operational Noise** | Operational manifestation of unnecessary demand and system friction | Noise ≠ demand itself |
+| **Operational Noise** | Operational manifestation of unnecessary demand and system friction | Noise ≠ demand |
 | **Capacity Consumption** | Capacity used to meet demand | Consumption ≠ drain |
 | **Capacity Release** | Capacity no longer consumed after demand is removed or reduced | Release ≠ recovery |
 | **Capacity Protection** | Prevention of released capacity being consumed again | Protection ≠ redirection |
 | **Capacity Recovery** | Usable capacity actually restored and protected | Recovery ≠ Human Energy recovery |
-| **Capacity Redirection** | Deliberate application of released/recovered capacity elsewhere | Redirection ≠ application |
+| **Capacity Redirection** | Deliberate movement of released capacity toward another purpose | Redirection ≠ application |
 | **Effective Application** | Capacity converted into purposeful action | Application ≠ execution |
 | **Execution** | Application producing intended results | Execution ≠ sustained execution |
 | **Sustained Execution** | Results repeatedly produced over time | ≠ one-time performance |
-| **Sustainable Execution Capacity** | Future ability/readiness to continue producing results | SEC ≠ current output |
-| **Value** | Beneficial organizational/business outcome created | Value ≠ activity reduction |
+| **Sustainable Execution Capacity** | Future ability to continue producing results without degrading future capacity | SEC ≠ current output |
+| **Value** | Beneficial organizational or business outcome created | Value ≠ activity reduction |
 
-### Critical Equations
+### Critical Distinctions
 
 **Capacity Release ≠ Capacity Recovery**
 
@@ -179,37 +179,35 @@ These distinctions prevent 5R from claiming value merely because activity has di
 
 ## REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN
 
-The cascade establishes the preferred decision order for treating recurring demand.
+The cascade establishes a preferred decision hierarchy for treating recurring demand.
 
 | 5R | Core Question | Decision | Primary Change | Capacity Consequence |
 |---|---|---|---|---|
 | **REMOVE** | Should this demand exist at all? | Eliminate | Existence of demand | Eliminates associated consumption |
 | **REDUCE** | If it must exist, how can consumption decrease? | Lower | Frequency, volume, intensity, scope, complexity | Reduces consumption |
 | **REPLACE** | Can the purpose be achieved more simply? | Substitute | Method or mechanism | May reduce consumption or friction |
-| **RE-ENGINEER** | Why does this demand keep arising? | Redesign | Underlying system/cause | Reduces recurrence |
-| **RETAIN** | What necessary and valuable work should remain? | Institutionalize | Standard, ownership, control, protection | Preserves justified demand and protects gains |
+| **RE-ENGINEER** | Why does this demand keep arising? | Redesign | Underlying system or cause | Reduces recurrence |
+| **RETAIN** | What necessary and valuable work should remain? | Institutionalize | Standard, ownership, control, protection | Preserves justified demand |
 
-### The Cascade Principle
+### Cascade Principle
 
-**Do not optimize what can be removed.**
+> **Do not optimize what can be removed.**
 
-**Do not reduce what can be removed.**
+> **Do not reduce what can be removed.**
 
-**Do not replace what can simply be removed.**
+> **Do not replace what can simply be removed.**
 
-**Do not repeatedly solve what should be re-engineered.**
+> **Do not repeatedly solve what should be re-engineered.**
 
-**Do not remove what is necessary and valuable.**
+> **Do not remove what is necessary and valuable.**
+
+The cascade is a **decision hierarchy**, not a requirement that every intervention execute five separate actions.
 
 ---
 
-# 6. THE FIVE Rs
+# 6. REMOVE
 
-## 6.1 REMOVE
-
-### Question
-
-> **Should this recurring demand exist at all?**
+## Should this recurring demand exist at all?
 
 REMOVE is the first decision because the most effective capacity consumption is consumption that no longer needs to occur.
 
@@ -221,7 +219,7 @@ REMOVE is the first decision because the most effective capacity consumption is 
 - the demand exists only because of historical practice;
 - duplication makes one instance unnecessary;
 - the demand can disappear without compromising necessary outcomes;
-- the demand is created by an avoidable system condition.
+- the demand is generated by an avoidable system condition.
 
 ### Decision
 
@@ -241,11 +239,11 @@ REMOVE is the first decision because the most effective capacity consumption is 
 
 ## If the demand must remain
 
-### Question
+REDUCE applies when demand is legitimate but its current frequency, volume, intensity, scope, or complexity is excessive.
+
+### Core Question
 
 > **If this demand must exist, how can its capacity consumption be reduced?**
-
-REDUCE applies when demand is legitimate but its current frequency, volume, intensity, scope, or complexity is excessive.
 
 ### Reduction Levers
 
@@ -279,11 +277,11 @@ REDUCE applies when demand is legitimate but its current frequency, volume, inte
 
 ## If the purpose remains but the method can change
 
-### Question
+REPLACE changes the mechanism rather than merely reducing its volume.
+
+### Core Question
 
 > **Can the same necessary purpose be achieved more simply?**
-
-REPLACE changes the mechanism rather than merely reducing its volume.
 
 ### Examples
 
@@ -307,7 +305,7 @@ REPLACE changes the mechanism rather than merely reducing its volume.
 
 > **Simplify before automating.**
 
-Automation may be one replacement mechanism, but it is not automatically the preferred answer.
+Automation may be a replacement mechanism, but it is not automatically the preferred answer.
 
 ---
 
@@ -315,11 +313,11 @@ Automation may be one replacement mechanism, but it is not automatically the pre
 
 ## When demand keeps coming back
 
-### Question
+RE-ENGINEER addresses recurring demand at its underlying system source.
+
+### Core Question
 
 > **Why does this demand keep arising?**
-
-RE-ENGINEER addresses recurring demand at its underlying system source.
 
 It moves the organization from:
 
@@ -345,11 +343,11 @@ to:
 
 ### Decision
 
-**Redesign the underlying system so that the recurring demand occurs less often or no longer needs to occur.**
+**Redesign the underlying system so the recurring demand occurs less often or no longer needs to occur.**
 
 ### Economic Effect
 
-**Underlying cause ↓ → Recurrence ↓ → Capacity Consumption ↓**
+**Underlying Cause ↓ → Recurrence ↓ → Capacity Consumption ↓**
 
 ### Principle
 
@@ -361,32 +359,36 @@ to:
 
 ## Not everything should be removed
 
-### Question
+RETAIN is a deliberate decision to preserve work that is necessary and valuable.
+
+### Core Question
 
 > **What necessary and valuable work should remain?**
 
-RETAIN is a deliberate decision to preserve work that is:
+### Retain When Work Is
 
 - necessary;
 - valuable;
 - proportionate;
 - appropriately designed;
 - strategically relevant;
-- required for control, safety, quality, compliance, service, learning, or value creation.
+- required for control;
+- required for safety;
+- required for quality;
+- required for compliance;
+- required for service;
+- required for learning;
+- required for value creation.
 
 ### Retain Means
 
 **Institutionalize + clarify + standardize + protect**
 
-Retention should not mean preserving work merely because it has always existed.
-
-### Decision
-
-**Keep and protect justified demand.**
+Retention should never mean preserving work merely because it has always existed.
 
 ### Economic Effect
 
-**Necessary demand remains → unnecessary consumption is controlled → value is protected**
+**Necessary demand remains → unnecessary consumption is controlled → justified value is protected**
 
 ### Principle
 
@@ -394,9 +396,9 @@ Retention should not mean preserving work merely because it has always existed.
 
 ---
 
-# 11. 5R DECISION HIERARCHY
+# 11. THE 5R DECISION HIERARCHY
 
-The cascade can be represented as a sequence of increasingly deeper questions.
+The cascade moves through increasingly deeper questions:
 
 **QUESTION THE DEMAND**
 
@@ -430,13 +432,13 @@ The cascade can be represented as a sequence of increasingly deeper questions.
 
 **What necessary and valuable work should remain and be protected?**
 
-This hierarchy moves intervention progressively from:
+The hierarchy moves intervention progressively through:
 
 **Existence → Consumption → Method → Cause → Protection**
 
 ---
 
-# 12. 5R GOVERNING QUESTIONS
+# 12. GOVERNING QUESTIONS
 
 | Dimension | Governing Question |
 |---|---|
@@ -446,17 +448,16 @@ This hierarchy moves intervention progressively from:
 | **Cause** | Why does the demand keep arising? |
 | **Retention** | What necessary and valuable work should remain? |
 | **Protection** | How will the gain be prevented from reversing? |
-| **Redirection** | What should happen to capacity released? |
+| **Redirection** | What should happen to released capacity? |
 | **Application** | Is released capacity being purposefully applied? |
 | **Execution** | Did intended execution improve? |
+| **Sustained Execution** | Did the improvement persist? |
 | **SEC** | Did future execution capacity strengthen? |
 | **Value** | Did sustainable business value improve? |
 
 ---
 
 # 13. DIAGNOSTIC QUESTIONS BEFORE APPLYING 5R
-
-Before making a decision, examine the demand.
 
 ### Demand
 
@@ -538,7 +539,9 @@ REMOVE   CAN CONSUMPTION
 
 ### Important
 
-The decision tree is a **decision hierarchy**, not a requirement that every intervention must perform five separate actions.
+The tree represents a **decision hierarchy**.
+
+It does not require every case to pass mechanically through all five Rs.
 
 ---
 
@@ -546,77 +549,178 @@ The decision tree is a **decision hierarchy**, not a requirement that every inte
 
 The relationship between the two OSF methods is deliberately simple.
 
-### 3C Determines WHERE
+## 3C Determines WHERE
 
-**Continuous Improvement**  
-→ recurring demand at the source
+**SOURCE**
 
-**Continuous Empowerment**  
-→ unnecessary dependency
+Continuous Improvement
 
-**Continuous Constraint Reduction**  
-→ systemic constraints limiting flow
+> Why does this keep arising?
 
-### 5R Determines HOW
+**DEPENDENCY**
+
+Continuous Empowerment
+
+> Why does action depend on someone or something else?
+
+**CONSTRAINT**
+
+Continuous Constraint Reduction
+
+> What is preventing effective action?
+
+## 5R Determines HOW
 
 **REMOVE**  
-→ eliminate unnecessary demand
+Eliminate unnecessary demand.
 
 **REDUCE**  
-→ lower unnecessary consumption
+Lower unnecessary consumption.
 
 **REPLACE**  
-→ substitute a simpler mechanism
+Substitute a simpler mechanism.
 
 **RE-ENGINEER**  
-→ redesign the recurring cause
+Redesign the recurring cause.
 
 **RETAIN**  
-→ preserve necessary and valuable work
+Preserve necessary and valuable work.
 
-### Relationship
+### Core Relationship
 
-**3C = WHERE**
+> **3C = WHERE**
 
-**5R = HOW**
+> **5R = HOW**
 
-3C identifies the intervention territory.
+3C identifies the relevant intervention context.
 
-5R determines the appropriate demand treatment.
+5R determines the appropriate treatment when recurring operational demand is being challenged.
 
 ---
 
-# 16. WHAT PROBLEM 5R ADDRESSES
+# 16. 3C IN PRACTICE
 
-5R addresses a specific operating problem:
+5R becomes more precise when 3C first changes the context through which a recurring condition is examined.
 
-> **Unnecessary recurring operational demand repeatedly consumes organizational capacity without sufficient corresponding value.**
+## Example 1 — Repeated Approval
 
-### Problem Chain
+### Visible Problem
 
-**Unnecessary Recurring Demand**
+A team repeatedly waits for management approval.
 
-↓
+### 3C Context
 
-**Operational Noise**
+**DEPENDENCY**
 
-↓
+### 3C Question
 
-**Avoidable Capacity Consumption**
+> **Why does action depend on this approval?**
 
-↓
+### Possible Insight
 
-**Reduced Usable Capacity**
+Decision rights may be unnecessarily centralized.
 
-↓
+### 5R Response
 
-**Reduced Application Potential**
+**REPLACE / RE-ENGINEER**
 
-↓
+Replace repeated approval with defined decision rights or redesign the governance condition creating the dependency.
 
-**Execution Consequence**
+### Capacity Effect
 
-5R intervenes primarily at the **demand layer**.
+Reduced waiting, escalation, coordination, and intervention.
+
+---
+
+## Example 2 — Repeated Billing Errors
+
+### Visible Problem
+
+The same billing errors repeatedly require correction.
+
+### 3C Context
+
+**SOURCE**
+
+### 3C Question
+
+> **What keeps creating the error?**
+
+### Possible Insight
+
+The error may originate upstream in data entry, system logic, or process design.
+
+### 5R Response
+
+**RE-ENGINEER**
+
+Redesign the upstream condition rather than repeatedly correcting the downstream error.
+
+### Capacity Effect
+
+Reduced rework and repeated intervention.
+
+---
+
+## Example 3 — Workflow Bottleneck
+
+### Visible Problem
+
+Work repeatedly accumulates at one point in a process.
+
+### 3C Context
+
+**CONSTRAINT**
+
+### 3C Question
+
+> **What is restricting flow?**
+
+### Possible Insight
+
+The bottleneck may be created by approval structure, system capacity, policy, or sequencing.
+
+### 5R Response
+
+Potentially **REDUCE, REPLACE, or RE-ENGINEER**, depending on what the diagnosis reveals.
+
+### Capacity Effect
+
+Reduced waiting and coordination burden; improved flow.
+
+---
+
+## Example 4 — Recurring Management Meeting
+
+### Visible Problem
+
+A large group spends significant time in a weekly meeting.
+
+### 3C Context
+
+Potentially **SOURCE, DEPENDENCY, or CONSTRAINT**, depending on why the meeting exists.
+
+### Questions
+
+> **Why does this meeting keep arising?**
+
+> **Why must these people depend on the meeting?**
+
+> **What condition requires the meeting?**
+
+### 5R Response
+
+Potentially:
+
+- **REMOVE** if the meeting no longer has a necessary purpose;
+- **REDUCE** if frequency or participation is excessive;
+- **REPLACE** with asynchronous information or defined decision rights;
+- **RE-ENGINEER** if the meeting is compensating for a recurring system problem;
+- **RETAIN** if it is necessary and valuable.
+
+### Core Lesson
+
+> **The activity does not determine the 5R decision. Context and purpose determine the decision.**
 
 ---
 
@@ -639,7 +743,7 @@ Therefore:
 
 **Demand ≠ Noise ≠ Consumption**
 
-### Typical Sources
+### Typical Sources of Operational Noise
 
 - unnecessary meetings;
 - repeated requests;
@@ -657,7 +761,7 @@ Therefore:
 - excessive dependencies;
 - repeated intervention.
 
-5R asks not merely:
+5R therefore asks not merely:
 
 > **How do we handle the noise?**
 
@@ -671,7 +775,7 @@ but:
 
 The immediate economic consequence of successful 5R intervention is not automatically value.
 
-The sequence is:
+The conversion sequence is:
 
 **Demand Reduction**
 
@@ -820,7 +924,7 @@ Released capacity should not be assumed to create value automatically.
 
 > **Where should the released capacity go?**
 
-Possible destinations include:
+Potential destinations include:
 
 - higher-value customer work;
 - strategic priorities;
@@ -829,7 +933,7 @@ Possible destinations include:
 - risk reduction;
 - quality improvement;
 - execution bottlenecks;
-- critical transformation;
+- transformation;
 - learning;
 - resilience;
 - future-capacity development.
@@ -840,7 +944,7 @@ Possible destinations include:
 
 Not:
 
-**Release → Assume value**
+**Release → Assume Value**
 
 ---
 
@@ -894,7 +998,7 @@ Therefore:
 
 # 24. 5R AND SUSTAINABLE EXECUTION CAPACITY
 
-5R contributes to Sustainable Execution Capacity when:
+5R can contribute to Sustainable Execution Capacity when:
 
 1. unnecessary recurring demand is reduced;
 2. capacity is genuinely released;
@@ -906,7 +1010,7 @@ Therefore:
 
 ### Therefore
 
-**5R can contribute to SEC.**
+> **5R can contribute to Sustainable Execution Capacity.**
 
 It does not automatically create SEC.
 
@@ -994,7 +1098,7 @@ Every material intervention should ultimately answer:
 | **SEC** | Did future execution capacity strengthen? |
 | **Value** | What sustainable value resulted? |
 
-### Final Test
+### Final Value Test
 
 > **What happened to the capacity we stopped consuming?**
 
@@ -1123,7 +1227,7 @@ Automation is not the starting point.
 
 > **Do not automate complexity that should have been eliminated.**
 
-Automation is appropriate when the underlying demand is justified and automation improves the way that necessary demand is handled.
+Automation is appropriate when the underlying demand is justified and automation improves how that necessary demand is handled.
 
 ---
 
@@ -1145,7 +1249,7 @@ This is a **management heuristic**, not a validated universal law.
 
 ### Priority Principle
 
-> **Do not automatically attack the largest demand. Attack the demand whose reduction most improves the system’s ability to move toward valuable application and sustained execution.**
+> **Do not automatically attack the largest demand. Attack the demand whose reduction most improves the system's ability to move toward valuable application and sustained execution.**
 
 ### Prioritization Flow
 
@@ -1220,7 +1324,7 @@ Therefore:
 
 > **Organizational growth can increase demand faster than it increases usable capacity.**
 
-### Growth Trap
+### Growth Chain
 
 **Growth**
 
@@ -1244,7 +1348,7 @@ Therefore:
 
 **More Capacity Consumption**
 
-### Important Distinctions
+### Critical Distinctions
 
 **Organizational growth ≠ capacity growth**
 
@@ -1254,21 +1358,46 @@ Therefore:
 
 **More activity ≠ more value**
 
+### The Growth Trap
+
+An organization may add:
+
+- people;
+- systems;
+- technology;
+- processes;
+- management layers;
+- specialist capabilities;
+
+while simultaneously increasing:
+
+- coordination;
+- dependency;
+- approval;
+- reporting;
+- integration;
+- exception handling;
+- operational demand.
+
+The result can be **more organizational capability but less usable capacity**.
+
 ### 5R Growth Principle
 
 > **Scale capability, not unnecessary demand.**
 
+As organizations grow, management should periodically challenge whether historical operational demand still deserves to scale with the organization.
+
 ---
 
-# 33. EX AND CX PERSPECTIVE
+# 33. 5R AND EMPLOYEE EXPERIENCE (EX)
 
 5R primarily addresses an internal operating condition.
 
-Its effects may extend to Employee Experience (EX) and Customer Experience (CX), but these effects are not automatic.
+Its effects may extend to Employee Experience (EX), but these effects are not automatic.
 
-### Inside-Out
+### Potential Relationship
 
-**Demand**
+**Recurring Demand**
 
 ↓
 
@@ -1286,9 +1415,45 @@ Its effects may extend to Employee Experience (EX) and Customer Experience (CX),
 
 **EX**
 
-### Outside-In
+Unnecessary recurring demand may contribute to:
 
-**Internal Operating Conditions**
+- excessive coordination;
+- avoidable interruptions;
+- repeated intervention;
+- unnecessary workload;
+- process frustration;
+- waiting;
+- rework;
+- reduced autonomy.
+
+### Qualification
+
+> **5R does not claim that reducing operational demand automatically improves Employee Experience.**
+
+It creates operating conditions that may support improvement.
+
+### Important Boundary
+
+5R does not replace:
+
+- Human Energy recovery;
+- wellbeing management;
+- employee experience management;
+- organizational development.
+
+---
+
+# 34. 5R AND CUSTOMER EXPERIENCE (CX)
+
+The effects of operational demand can also reach the customer.
+
+### Potential Relationship
+
+**Internal Demand**
+
+↓
+
+**Operational Conditions**
 
 ↓
 
@@ -1296,32 +1461,30 @@ Its effects may extend to Employee Experience (EX) and Customer Experience (CX),
 
 ↓
 
-**Customer Experience**
+**Customer Interaction**
 
 ↓
 
 **CX**
 
-### Potential Relationship
+Unnecessary demand may contribute indirectly to:
 
-Unnecessary recurring demand may contribute to:
-
-- avoidable employee friction;
-- excessive coordination;
-- delays;
-- repeated intervention;
-- errors;
-- handoff problems;
+- slower response;
 - inconsistent service;
-- customer-facing responsiveness problems.
+- errors;
+- repeated customer contact;
+- handoff friction;
+- delayed resolution.
 
-### Qualification
+However:
 
-> **5R does not claim that reducing operational demand automatically improves EX or CX. It creates operating conditions that may support improvement.**
+> **Negative CX does not mechanically prove that unnecessary internal demand is the cause.**
+
+CX should therefore be treated as a **potential external signal**, not as automatic causal evidence.
 
 ---
 
-# 34. SLA → XLA → 5R
+# 35. SLA → XLA → 5R
 
 5R complements rather than replaces SLA and XLA.
 
@@ -1351,7 +1514,61 @@ Therefore:
 
 ---
 
-# 35. SCOPE AND BOUNDARIES
+# 36. 5R AND THE EX ↔ CX LOOP
+
+The broader HEE perspective connects internal operating conditions with external experience.
+
+### Inside-Out
+
+**Demand**
+
+↓
+
+**Operational Conditions**
+
+↓
+
+**Effective Application**
+
+↓
+
+**Execution**
+
+↓
+
+**EX**
+
+### Outside-In
+
+**Customer Need**
+
+↓
+
+**Experience**
+
+↓
+
+**Outcome**
+
+↓
+
+**CX**
+
+### Feedback
+
+**CX signals may reveal conditions worth investigating internally.**
+
+A negative CX signal can therefore trigger a 3C inquiry and potentially a 5R examination.
+
+But:
+
+> **Signal ≠ proof of cause.**
+
+5R contributes by challenging recurring internal demand where evidence indicates that such demand may be consuming capacity required for effective execution and customer outcomes.
+
+---
+
+# 37. SCOPE AND BOUNDARIES
 
 ## 5R Owns
 
@@ -1374,7 +1591,9 @@ Therefore:
 - complete execution management;
 - overall OEOS architecture;
 - every organizational constraint;
-- Sustainable Business Value by itself.
+- Sustainable Business Value by itself;
+- Employee Experience management;
+- Customer Experience management.
 
 ### HEE Ecosystem
 
@@ -1395,9 +1614,9 @@ Therefore:
 
 ---
 
-# 36. MANAGEMENT LOGIC
+# 38. MANAGEMENT LOGIC
 
-### 5R Core Logic
+## 5R Core Logic
 
 **QUESTION**
 
@@ -1411,7 +1630,7 @@ Therefore:
 
 → **RETAIN**
 
-### Post-Cascade Conversion
+## Post-Cascade Conversion
 
 **PROTECT**
 
@@ -1463,13 +1682,13 @@ Therefore:
 
 ### Important Distinction
 
-The first five stages are the **5R decision methodology**.
+The first five decisions constitute the **5R decision methodology**.
 
-The stages after RETAIN are the **conversion and management conditions required to turn demand reduction into durable organizational benefit**.
+The activities after RETAIN are **conversion and management conditions required to turn demand reduction into durable organizational benefit**.
 
 ---
 
-# 37. PRACTICAL IMPLEMENTATION
+# 39. PRACTICAL IMPLEMENTATION
 
 ## The 5R Path
 
@@ -1481,53 +1700,63 @@ Select a material recurring operational demand.
 
 Understand its source, purpose, recurrence, noise, and capacity consumption.
 
-### 3. QUESTION
+### 3. CONTEXTUALIZE
+
+Use 3C to determine whether the relevant context is primarily:
+
+**SOURCE**
+
+**DEPENDENCY**
+
+**CONSTRAINT**
+
+### 4. QUESTION
 
 Ask whether the demand should exist.
 
-### 4. REMOVE
+### 5. REMOVE
 
 Eliminate it if unnecessary.
 
-### 5. REDUCE
+### 6. REDUCE
 
 If necessary, reduce its consumption.
 
-### 6. REPLACE
+### 7. REPLACE
 
 If the purpose remains, seek a simpler mechanism.
 
-### 7. RE-ENGINEER
+### 8. RE-ENGINEER
 
 If the demand keeps recurring, redesign the underlying cause.
 
-### 8. RETAIN
+### 9. RETAIN
 
 Institutionalize necessary and valuable work.
 
-### 9. PROTECT
+### 10. PROTECT
 
 Prevent the improvement from reversing or being reabsorbed.
 
-### 10. MEASURE
+### 11. MEASURE
 
 Measure capacity release, protection, recovery, redirection, application, execution, and outcomes.
 
-### 11. REDIRECT
+### 12. REDIRECT
 
 Deliberately apply released capacity.
 
-### 12. LEARN & REPEAT
+### 13. LEARN & REPEAT
 
 Use evidence from the intervention to identify the next high-leverage recurring demand.
 
 ### Quick Form
 
-**IDENTIFY → DIAGNOSE → QUESTION → 5R → PROTECT → REDIRECT → APPLY → EXECUTE → LEARN**
+**IDENTIFY → DIAGNOSE → CONTEXTUALIZE → QUESTION → 5R → PROTECT → REDIRECT → APPLY → EXECUTE → LEARN**
 
 ---
 
-# 38. MEASUREMENT
+# 40. MEASUREMENT
 
 5R measurement should follow the complete conversion chain.
 
@@ -1556,7 +1785,7 @@ Use evidence from the intervention to identify the next high-leverage recurring 
 
 ---
 
-# 39. BEFORE AND AFTER
+# 41. BEFORE AND AFTER
 
 | Before 5R | After 5R |
 |---|---|
@@ -1580,9 +1809,9 @@ Each transition requires deliberate management and evidence.
 
 ---
 
-# 40. MATURITY
+# 42. MATURITY MODEL
 
-5R maturity describes increasing organizational ability to challenge recurring demand.
+5R maturity describes increasing organizational ability to challenge recurring demand and convert released capacity into sustainable organizational benefit.
 
 | Stage | Characteristic |
 |---|---|
@@ -1613,9 +1842,13 @@ Each transition requires deliberate management and evidence.
 
 → **Strengthen SEC**
 
+### Maturity Principle
+
+> **Maturity is not measured by how much work an organization eliminates. It is measured by how deliberately it manages demand, protects capacity, and converts released capacity into sustainable execution capability.**
+
 ---
 
-# 41. BOUNDARY CONDITIONS
+# 43. BOUNDARY CONDITIONS
 
 5R does **not** assume:
 
@@ -1649,7 +1882,42 @@ Each transition requires deliberate management and evidence.
 
 ---
 
-# 42. THE 5R ECONOMIC PROPOSITION
+# 44. DIFFERENTIATION
+
+5R differs from conventional improvement approaches primarily through the **decision point at which intervention begins**.
+
+| Conventional Logic | 5R Logic |
+|---|---|
+| Activity → Optimize | **Demand → Question** |
+| Process → Improve | **Demand → Remove / Reduce / Replace / Re-engineer** |
+| Cost → Reduce | **Capacity Consumption → Challenge** |
+| Automation → Accelerate | **Simplification → Automate where appropriate** |
+| Problem → Solve | **Recurrence → Remove cause** |
+| Time saved → Celebrate | **Capacity released → Protect and redirect** |
+| Output → Increase | **Application → Improve** |
+| Efficiency → Maximize | **Sustainable Execution Capacity → Strengthen** |
+
+### Detailed Differentiation
+
+| Approach | Primary Question | Starting Point | 5R Difference |
+|---|---|---|---|
+| **Traditional Process Improvement** | How can the process improve? | Existing process | Questions whether the demand creating the process should exist |
+| **Lean-style Waste Reduction** | What waste can be removed? | Process/activity | Adds a specific demand-to-capacity economic logic |
+| **Automation** | How can work be performed automatically? | Existing activity | Questions existence and simplification before automation |
+| **Cost Reduction** | How can expenditure decrease? | Financial cost | Focuses on capacity consumption rather than cost alone |
+| **Productivity Management** | How can output per input improve? | Output/input ratio | Questions unnecessary demand before optimizing productivity |
+| **Capacity Planning** | How much capacity is required? | Capacity requirement | Challenges the demand creating the requirement |
+| **Workload Management** | How can workload be balanced? | Existing workload | Questions whether workload should exist at all |
+| **Execution Management** | How can results be delivered? | Execution | Addresses upstream recurring demand that may constrain execution |
+| **5R** | **Should this recurring demand exist?** | **Demand** | **Moves intervention upstream from activity to demand** |
+
+### Core Differentiator
+
+> **5R moves the management decision upstream — from optimizing activity to challenging the demand that creates the activity.**
+
+---
+
+# 45. THE 5R ECONOMIC PROPOSITION
 
 > **Organizations can strengthen Sustainable Execution Capacity not only by increasing capability or efficiency, but by systematically reducing unnecessary recurring demand and deliberately redirecting the capacity that reduction releases.**
 
@@ -1679,7 +1947,7 @@ Value requires deliberate conversion.
 
 ---
 
-# 43. THE 5R MANAGEMENT PROPOSITION
+# 46. THE 5R MANAGEMENT PROPOSITION
 
 > **Before improving how recurring work is performed, management should determine whether the work should exist, whether its demand can be reduced, whether its purpose can be achieved more simply, why the demand keeps arising, and what necessary work should be retained and protected.**
 
@@ -1696,32 +1964,34 @@ Value requires deliberate conversion.
 | Reduce activity | **Redirect capacity** |
 | Improve efficiency | **Improve effective application** |
 | Measure work removed | **Measure conversion after removal** |
-| Manage today’s workload | **Strengthen tomorrow’s execution capacity** |
+| Manage today's workload | **Strengthen tomorrow's execution capacity** |
 
 ---
 
-# 44. DIFFERENTIATION
+# 47. RELATIONSHIP TO HEE
 
-5R differs from conventional improvement approaches primarily through the **decision point at which intervention begins**.
+### HEE → OEOS → OSF → 3C → 5R
 
-| Conventional Logic | 5R Logic |
+| Layer | Primary Question |
 |---|---|
-| Activity → Optimize | **Demand → Question** |
-| Process → Improve | **Demand → Remove / Reduce / Replace / Re-engineer** |
-| Cost → Reduce | **Capacity Consumption → Challenge** |
-| Automation → Accelerate | **Simplification → Automate where appropriate** |
-| Problem → Solve | **Recurrence → Remove cause** |
-| Time saved → Celebrate | **Capacity released → Protect and redirect** |
-| Output → Increase | **Application → Improve** |
-| Efficiency → Maximize | **Sustainable execution capacity → Strengthen** |
+| **HEE** | What limits sustainable organizational application and execution capacity? |
+| **OEOS** | How should HEE principles be translated into organizational management and operation? |
+| **OSF** | What unnecessary recurring operational demand is consuming capacity? |
+| **3C** | Where should intervention occur? |
+| **5R** | How should the demand be treated? |
+| **HERF** | How should Human Energy be recovered where recovery is required? |
+| **HEEn** | What organizational conditions must enable application? |
+| **EES** | How should execution be controlled, learned from, and adapted? |
 
-### Core Differentiator
+### Core Relationship
 
-> **5R moves the management decision upstream — from optimizing activity to challenging the demand that creates the activity.**
+> **HEE explains. OEOS organizes. OSF focuses. 3C locates. 5R intervenes. HERF recovers. HEEn enables. EES executes and adapts.**
+
+5R therefore operates **within the HEE/OEOS architecture** rather than replacing HEE, OSF, or the other mechanisms.
 
 ---
 
-# 45. 5R IN ITS SIMPLEST FORM
+# 48. 5R IN ITS SIMPLEST FORM
 
 ### One Question
 
@@ -1761,7 +2031,7 @@ And:
 
 ---
 
-# 46. THE CENTRAL 5R LOGIC
+# 49. THE CENTRAL 5R LOGIC
 
 > **Question the demand before optimizing the activity.**
 
@@ -1835,7 +2105,7 @@ Then:
 
 ---
 
-# 47. EXPECTED CONTRIBUTION
+# 50. EXPECTED CONTRIBUTION
 
 5R contributes a distinct decision logic to operational management.
 
@@ -1873,30 +2143,7 @@ Then:
 
 ---
 
-# 48. RELATIONSHIP TO HEE
-
-### HEE → OEOS → OSF → 3C → 5R
-
-| Layer | Primary Question |
-|---|---|
-| **HEE** | What limits sustainable organizational application and execution capacity? |
-| **OEOS** | How should HEE principles be translated into organizational management and operation? |
-| **OSF** | What unnecessary recurring operational demand is consuming capacity? |
-| **3C** | Where should intervention occur? |
-| **5R** | How should the demand be treated? |
-| **HERF** | How should Human Energy be recovered where recovery is required? |
-| **HEEn** | What organizational conditions must enable application? |
-| **EES** | How should execution be controlled, learned from, and adapted? |
-
-### Core Relationship
-
-> **HEE explains. OEOS organizes. OSF focuses. 3C locates. 5R intervenes. HERF recovers. HEEn enables. EES executes and adapts.**
-
-5R therefore operates **within the HEE/OEOS architecture** rather than replacing HEE, OSF, or the other mechanisms.
-
----
-
-# 49. RESEARCH POSITION
+# 51. RESEARCH POSITION
 
 The 5R Cascade Framework is a **developing conceptual decision methodology** within OSF and the broader HEE architecture.
 
@@ -1934,43 +2181,7 @@ The framework distinguishes:
 
 ---
 
-# 50. CLOSING PRINCIPLE
-
-**Stop optimizing what should be removed.**
-
-**Remove what should not exist.**
-
-**Reduce what must remain.**
-
-**Replace what can be simpler.**
-
-**Re-engineer what the system keeps recreating.**
-
-**Retain what is necessary and valuable.**
-
-**Protect the gain.**
-
-**Redirect the capacity.**
-
-**Apply it where it matters.**
-
-**Execute better.**
-
-**Learn and adapt.**
-
-**Build stronger capacity for tomorrow.**
-
-### Final 5R Principle
-
-> **The purpose of 5R is not to make organizations do less. It is to stop organizations from unnecessarily consuming the capacity required to do what matters.**
-
-### Final Question
-
-> **What could your organization stop consuming capacity on — if it first questioned whether the demand should exist at all?**
-
----
-
-# 51. CREATOR & MAINTAINER
+# 52. CREATOR & MAINTAINER
 
 **Md. Mozammel Hoque**
 
@@ -1987,7 +2198,7 @@ Creator and maintainer of:
 
 ---
 
-# 52. LICENSE
+# 53. LICENSE
 
 This framework is a developing conceptual management framework created and maintained by **Md. Mozammel Hoque**.
 
@@ -1997,7 +2208,7 @@ Commercial use, modification, redistribution, or incorporation into proprietary 
 
 ---
 
-## 5R CASCADE — ONE-PAGE SUMMARY
+# 54. 5R CASCADE — ONE-PAGE SUMMARY
 
 | Element | 5R Definition |
 |---|---|
@@ -2037,3 +2248,39 @@ Commercial use, modification, redistribution, or incorporation into proprietary 
 ### The Core Management Principle
 
 > **Do not optimize what should be removed.**
+
+---
+
+# 55. CLOSING PRINCIPLE
+
+**Stop optimizing what should be removed.**
+
+**Remove what should not exist.**
+
+**Reduce what must remain.**
+
+**Replace what can be simpler.**
+
+**Re-engineer what the system keeps recreating.**
+
+**Retain what is necessary and valuable.**
+
+**Protect the gain.**
+
+**Redirect the capacity.**
+
+**Apply it where it matters.**
+
+**Execute better.**
+
+**Learn and adapt.**
+
+**Build stronger capacity for tomorrow.**
+
+### Final 5R Principle
+
+> **The purpose of 5R is not to make organizations do less. It is to stop organizations from unnecessarily consuming the capacity required to do what matters.**
+
+### Final Question
+
+> **What could your organization stop consuming capacity on — if it first questioned whether the demand should exist at all?**
