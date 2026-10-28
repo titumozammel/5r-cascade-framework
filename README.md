@@ -153,7 +153,7 @@ Therefore: **Demand ≠ Noise ≠ Consumption**, **Disposition ≠ Result**, and
 
 ## The Decision Point
 
-*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
+*Quoted from the Core README’s The Decision Point (the canonical text, without its illustrative example). If the two differ, the Core README governs.*
 
 Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
@@ -528,7 +528,7 @@ Choose the destination that answers your next question. You need not read every 
 | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
 | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
 | [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
-| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | How should execution be managed, controlled, and adapted? |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
 
 ### A short learner exercise
@@ -541,7 +541,7 @@ Think of one recurring demand you handle: a report, a request, an approval, a me
 
 **Revision record — 28 October 2026.** Revises the 2 September 2026 edition for alignment with the HEE Core, author profile, AKG record, HEEn, OSF, and 3C. Replaces the “Canonical Edition” status and the “Canonical Model Rule” with a provisional status, a single canonical table of dispositions, and a research agenda. Adds the precision and evidence statements, evidence labels, reader routes, a one-page owner view, a thirteen-row question map, The Decision Point, a worked case, a decision hierarchy with an evidence-pattern table, a section on necessity and legitimacy, a disposition record, a disposition coding sheet with a first reliability procedure, and a retirement table. Reframes “never reduce what can be removed” and “remove before reducing” as heuristics with a reversible-trial exception, and presents the decision tree as an order of questions rather than a mandatory path. Consolidates the repeated restatements of the cascade and the value pathway (the decision hierarchy, decision tree, management logic, practical implementation, simplest form, and central logic) and the separate 5R Value Test, which now points to the shared OSF Value Test. Removes the 3C examples, which 3C now hosts, and the before-and-after table. Replaces “Capacity Recovery” with the OSF term Usable Capacity Availability to avoid a collision with the Core’s *Recover*, uses “OEOS” in place of “OEOS/OOS”, and replaces the ecosystem lists with a boundary table. Reduces eighteen principles to thirteen heuristics. Labels the eight-level maturity model a legacy construct that is not tested. Replaces the “Practice Evidence” claim of “measurable changes” with an AKG-relationship section that records the evidence as author-reported and notes that none of the six cases is a Remove or Reduce case. Adds a theory section with hedged antecedents and comparators, and moves the one-page summary and closing statements out in favour of the owner view, with the license at the end.
 
-This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are supplied as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
+This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Public URLs are provided as reader destinations; current live contents and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
 ## License
 
