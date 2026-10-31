@@ -7,11 +7,11 @@
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Revised companion framework**  
-**Revision date: 28 October 2026**  
+**Version 1.0 — Companion framework**  
+**Revision date: 31 October 2026**  
 **Status: provisional research and practice reference**
 
-[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [5R repository](https://github.com/titumozammel/5r-cascade-framework)
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
 > **Precision statement.** The 5R Cascade Framework is HEE’s proposed method for choosing what should happen to a recurring operational demand once its necessity has been examined: Remove, Reduce, Replace, Re-engineer, or Retain. It does not establish that its order of questions improves decisions, that the five dispositions are distinct and can be classified reliably, that released capacity becomes usable capacity, or that any downstream result follows. Those are questions for evidence.
 
@@ -59,7 +59,7 @@ Read in sequence only if useful. Follow the question map when you have a specifi
 **[H] What to do with this document in ten minutes.**
 
 1. **Name one recurring demand** (a report, a request type, an approval, a meeting) and what it costs, if recorded. If nothing is recorded, that is the first finding.
-2. **Test necessity before choosing.** Is it needed, is it valuable, is the amount proportionate? Ask its users and owner. If its purpose is not recorded, treat that as **Unknown** and establish it before acting. Choose the route that fits: **Diagnose** when the cause is unclear, **Establish** when evidence is missing, **Verify** when a standard exists against which to check practice. For a demand whose purpose is unrecorded, use Establish; for one whose cause is unclear, use Diagnose. The [routes table](#which-investigation-route) is in *Choosing a disposition*.
+2. **Test necessity before choosing.** Is it needed, is it valuable, is the amount proportionate? Ask its users and owner. If its purpose is not recorded, treat that as **Unknown** and establish it before acting. Choose the route that fits: **Diagnose** when the cause is unclear, **Establish** when evidence is missing, **Verify** when a standard exists against which to check practice. The [routes table](#which-investigation-route) is in *Choosing a disposition*.
 3. **Split it.** Different parts of one demand often have different purposes.
 4. **Ask the five questions, in order, for each part.** Should it exist? If yes, can it consume less? Can its purpose be met by a simpler mechanism? Why does it keep arising? What must stay, and who protects it?
 5. **Compare feasible options, and prefer a reversible first step** with a stop rule written before it starts. Keep any safeguard unless a replacement is shown, and name what takes over its protective purpose.
@@ -139,7 +139,7 @@ Retaining work because “we have always done it this way” is not retention; i
 
 ## Definitions and distinctions
 
-These definitions follow the closed HEE Core reference for this revision. Where 5R adds a term, it says so.
+These definitions follow the HEE Core README. Where 5R adds a term, it says so.
 
 | Term | Working meaning | Practical distinction |
 | --- | --- | --- |
@@ -159,7 +159,7 @@ These definitions follow the closed HEE Core reference for this revision. Where 
 | Sustainable Execution Capacity (SEC) [P] | Continuing ability and readiness to execute effectively over time | Requires follow-up evidence; a faster task does not establish SEC |
 | Value | Consequential outcomes across the six capitals: financial, manufactured, intellectual, human, social and relationship, and natural | Not identical to activity, output, or profit |
 
-Therefore: **Demand ≠ Noise ≠ Consumption**, **Disposition ≠ Result**, and **Release ≠ Protection ≠ Availability ≠ Redirection ≠ Application ≠ Execution ≠ Value**. These are related conditions, not interchangeable words. An earlier edition used “Capacity Recovery” for what is now Usable Capacity Availability; the change avoids a collision with the Core’s *Recover* intervention, which restores depleted Human Energy.
+Therefore: **Demand ≠ Noise ≠ Consumption**, **Disposition ≠ Result**, and **Release ≠ Protection ≠ Availability ≠ Redirection ≠ Application ≠ Execution ≠ Value**. These are related conditions, not interchangeable words. Usable Capacity Availability is distinct from the Core’s *Recover* intervention, which restores depleted Human Energy.
 
 ## The Decision Point
 
@@ -195,12 +195,11 @@ These routes can inform one another; they are not compulsory sequential stages.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
 
-
 **Applying the four definitions to a disposition choice.** Choosing what happens to a demand is itself a consequential decision. *Decision Enablement:* does the person choosing have the authority, information, and access to change the demand, or does someone else own the rule, the report, or the system? *Decision Process Quality:* were necessity and legitimacy examined, and the users and owners of the demand asked, before a disposition was chosen? *Decision Quality:* given what could reasonably be known, was the disposition appropriate? *Decision Outcome Quality:* what happened to the demand, to the capacity, and to the purpose the demand served? A removal that caused no harm does not prove the decision was well made (the purpose may simply not have been tested), and a restored report does not prove it was poorly made.
 
 ## What 5R contributes
 
-5R proposes a specific order of questions for recurring demand: *should it exist, can it consume less, can its purpose be met more simply, why does it keep arising, and what must stay?* It adds a disposition record that carries the choice through release, protection, destination, and follow-up. Its intended contribution is more inspectable disposition choices and a clearer separation between a change in activity and what happens to capacity, not the discovery that unnecessary work should be questioned. **3C = where to look; 5R = what to do about a recurring demand.** Neither requires the other.
+5R proposes an order for considering dispositions, not a mandatory intervention sequence: *should it exist, can it consume less, can its purpose be met more simply, why does it keep arising, and what must stay?* It adds a disposition record that carries the choice through release, protection, destination, and follow-up. Its intended contribution is more inspectable disposition choices and a clearer separation between a change in activity and what happens to capacity, not the discovery that unnecessary work should be questioned. **3C = where to look; 5R = what to do about a recurring demand.** Neither requires the other.
 
 Whether this order improves decisions, classification reliability, or outcomes beyond credible alternatives remains an empirical question. A new vocabulary or a successful example is not sufficient evidence of added value.
 
@@ -225,7 +224,7 @@ An accounts-payable team receives supplier status enquiries. Leaders ask how to 
 
 **Measures set before starting.** Enquiries per week by type; minutes per enquiry, timed on a sample of 20; intake mismatches; supplier complaints; against an eight-week baseline. Each figure is recorded as *measured* or *estimated*.
 
-**Illustrative result.** After the notice is extended to all suppliers, enquiries fall from about 90 to about 50 a week, mostly date enquiries, and estimated effort from about 15 to about 9 hours a week. This supports a narrower account: most status enquiries were avoidable and the dispute portion was legitimate. It does not show that six hours became usable capacity.
+**Illustrative result.** After the notice is extended to all suppliers, enquiries fall from about 90 to about 50 a week (the fall is mostly date enquiries), and estimated effort from about 15 to about 9 hours a week. This supports a narrower account: most status enquiries were avoidable and the dispute portion was legitimate. It does not show that six hours became usable capacity.
 
 **What happens to the six hours.** The owner agrees in advance that they go to the intake fix. In the fourth week a new supplier-onboarding request arrives. Because the destination and owner were named, it goes through a visible reassignment decision rather than silent reabsorption: half is accepted and the rest deferred, with a review date.
 
@@ -277,6 +276,14 @@ The order is a **sequence of questions to ask**, not a ranking of worth and not 
 | **Diagnose** | The demand recurs and its cause is unclear | Test candidate causes before a Re-engineer; check the alternatives (capability shortage, blocked access, a capacity shortfall) |
 | **Establish** | A purpose, baseline, or user is Unknown | Gather the cheapest evidence that makes the disposition decidable, with an owner and a date |
 | **Verify** | A standard exists (a duty, a service commitment, a control) | Check that a retained control is performed, or that a safeguard held after a removal or replacement |
+
+### How OSF and 5R fit together
+
+OSF structures inquiry into recurring demand; 5R structures consideration of its possible disposition. Their question orders serve different purposes and do not form one compulsory sequence.
+
+If necessity or the cause of recurrence is uncertain, use [OSF](https://github.com/titumozammel/operational-silence-framework) to investigate or establish the missing evidence. When enough is known to compare responses, use 5R: Remove, Reduce, Replace, Re-engineer, or Retain. Return to investigation whenever a proposed response exposes an unanswered question.
+
+The 5R order is an order of consideration, not a ranking or a first-feasible rule. Re-engineer being fourth does not require trying the preceding options first. Compare feasible options and combinations against purpose, evidence, cost, risk, safeguards, and future-capacity consequences. Retain may be appropriate at any point.
 
 ## Before changing anything: necessity and legitimacy
 
@@ -412,13 +419,13 @@ HEE is the provisional capacity lens informed by economic questions. **OEOS** is
 | Capability Interconnection | Connects distributed capability for application | 5R may remove an unnecessary dependency; it does not connect capability |
 | EES | Manages execution through Find, Fix, Control, Adapt, Grow | 5R does not manage execution |
 
-**How 5R relates to the Core’s five interventions.** The 5R Cascade determines what should happen to a demand. The Core’s five interventions (Protect, Recover, Develop, Connect, Enable) address the capacity and organizational conditions needed for effective application. They answer different questions and are not one combined sequence; Remove, Reduce, and the other Rs are dispositions, not the Core’s interventions. The Core uses 5R on a sample to test whether a demand is necessary when it must distinguish a capacity shortfall from a drain.
+**How 5R relates to the Core’s five interventions.** The 5R Cascade determines what should happen to a demand. The Core’s five interventions (Protect, Recover, Develop, Connect, Enable) address the capacity and organizational conditions needed for effective application. They answer different questions and are not one combined sequence; Remove, Reduce, and the other Rs are dispositions, not the Core’s interventions. Where the Core must distinguish a capacity shortfall from a drain, it uses 5R on a sample to test whether a demand is necessary.
 
 Some elements are documented within the Core and have no separate repository. Markets, strategy, regulation, technical failures, industrial relations, and health questions may need other explanations or specialists. 5R is **not** a mandate to reduce activity, a cost-reduction programme, a replacement for lean, process improvement, or failure-demand analysis, or a method for deciding enterprise strategy.
 
 ## Descriptive progression (legacy construct, not tested)
 
-Earlier editions described an eight-level maturity progression. It is retained as an optional set of prompts, **[P] (legacy construct, not tested)**. It is not an established ordered maturity scale, a certification, or grounds to score organizations or people, and progress can be uneven and reversible.
+An eight-level maturity progression is offered as an optional set of prompts, **[P] (legacy construct, not tested)**. It is not an established ordered maturity scale, a certification, or grounds to score organizations or people, and progress can be uneven and reversible.
 
 | Level | Prompt | What it describes |
 | --- | --- | --- |
@@ -437,7 +444,7 @@ The [AKG Record](https://github.com/titumozammel/hee-case-studies) describes six
 
 That is a retrospective reading. The record does not document the necessity tests applied, the alternative dispositions considered, who classified each case, or where any released capacity went, which is **Not recorded** and therefore **Unknown** for all six. The figures are author-reported and not independently verified, and the record was not designed to test 5R. Where another document lists the dispositions with arrows, read them as an order of questions, not a sequence every demand must pass through.
 
-Do not use the cases to claim that the five dispositions are distinct, that assessors can classify them reliably, that the order of questions improves decisions, or that any released capacity became value. They can motivate a study; they cannot validate 5R. An earlier edition described the applications as producing “measurable changes in recurring demand”; this edition says only that the author reports changes in demand and records them as author-reported.
+Do not use the cases to claim that the five dispositions are distinct, that assessors can classify them reliably, that the order of questions improves decisions, or that any released capacity became value. They can motivate a study; they cannot validate 5R. The record says only that the author reports changes in demand, and it treats them as author-reported.
 
 The author remains Chief Innovation Officer at AKG. His operational involvement and originator role are material to interpreting the practice accounts. Research use requires appropriate authority, confidentiality, provenance, and access arrangements; no access is promised here.
 
@@ -453,7 +460,7 @@ The author remains Chief Innovation Officer at AKG. His operational involvement 
 
 The syntheses are the author’s reading of these traditions **[A]**, not a literature review. “Explicitly includes” describes 5R’s content; whether those elements are absent from the established approaches is what the literature-positioning test is for.
 
-The proposed contribution **[P]** is narrow: an explicit order of questions for a recurring demand, with a legitimacy check and Retain as a first-class disposition, and a disposition record that carries the choice through protection, destination, and coverage. Whether this adds decision value beyond lean, process redesign, and failure-demand analysis must be tested against credible alternatives with comparable evidence and effort. The five dispositions may overlap substantially with each other and with established ideas; 5R does not presently show that they are distinct. If the tests below find that they collapse, narrow 5R to a set of question prompts.
+The proposed contribution **[P]** is narrow: an order for considering dispositions for a recurring demand (not a mandatory intervention sequence), with a legitimacy check and Retain as a first-class disposition, and a disposition record that carries the choice through protection, destination, and coverage. Whether this adds decision value beyond lean, process redesign, and failure-demand analysis must be tested against credible alternatives with comparable evidence and effort. The five dispositions may overlap substantially with each other and with established ideas; 5R does not presently show that they are distinct. If the tests below find that they collapse, narrow 5R to a set of question prompts.
 
 | Approach | Primary starting point | Proposed 5R distinction (to be tested, not established) |
 | --- | --- | --- |
@@ -498,7 +505,7 @@ The following are proposed 5R study questions, **not newly registered Core propo
 | The dispositions cannot be told apart | Merge them; withdraw the claim that there are five distinct dispositions |
 | The 5R order yields no better choices than another order | Keep the questions as a checklist; withdraw the claim that the order matters |
 | 5R-guided choices do not differ from a structured failure-demand analysis | 5R is a disposition vocabulary on top of existing methods rather than a new approach |
-| Context-first or necessity-first practice does not reduce wrongful removal | Keep the legitimacy check as good practice; withdraw the claim that 5R provides it |
+| Necessity-first practice does not reduce wrongful removal | Keep the legitimacy check as good practice; withdraw the claim that 5R provides it |
 | Replacement routinely creates demand that offsets the saving | Qualify Replace; require net-demand measurement before claiming release |
 
 **Minimum study protocol.** Follow the eight-item protocol in [HEEn](https://github.com/titumozammel/human-energy-enablement#minimum-study-protocol): claim, unit and setting; operational definitions; comparison; outcomes; design; decision rules; governance; and registration and reporting. A sufficiently precise null or contrary result after a fair test should narrow or reject the specified claim. Do not rescue a failed claim by changing definitions after seeing outcomes. See also the Core’s [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p).
