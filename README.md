@@ -357,7 +357,7 @@ If both “outside 5R” patterns appear together, examine both explanations. Ch
 | Route | Use it when | Typical 5R use |
 | --- | --- | --- |
 | **Diagnose** | The demand recurs and its cause is unclear | Test candidate causes before a Re-engineer; check the alternatives (capability shortage, blocked access, a capacity shortfall) |
-| **Establish** | A purpose, baseline, or user is Unknown | Gather the cheapest evidence that makes the disposition decidable, with an owner and a date |
+| **Establish** | A purpose, baseline, or user is Unknown | Gather proportionate, decision-relevant evidence needed to resolve the uncertainty, with an owner and a date |
 | **Verify** | A standard exists (a duty, a service commitment, a control) | Check that a retained control is performed, or that a safeguard held after a removal or replacement |
 
 ### How OSF and 5R fit together
