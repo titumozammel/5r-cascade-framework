@@ -4,18 +4,20 @@
 
 *A decision method for choosing what should happen to recurring operational demand: remove it, reduce it, replace it, re-engineer it, or retain it.*
 
+*The heading is a slogan, not a claim. What 5R does and does not show is set out in the precision statement below.*
+
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
 **Version 1.0 — Companion framework**  
-**Revision date: 31 October 2026**  
+**Initial publication date: 31 October 2026**  
 [HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
-> **Precision statement.** The 5R Cascade Framework is HEE’s proposed method for choosing what should happen to a recurring operational demand once its necessity has been examined: Remove, Reduce, Replace, Re-engineer, or Retain. It does not establish that its order of questions improves decisions, that the five dispositions are distinct and can be classified reliably, that released capacity becomes usable capacity, or that any downstream result follows. Those are questions for evidence.
+> **Precision statement.** The 5R Cascade Framework is HEE’s practice-driven method for choosing what should happen to a recurring operational demand once its necessity has been examined: Remove, Reduce, Replace, Re-engineer, or Retain. It does not establish that its order of questions improves decisions, that the five dispositions are distinct and can be classified reliably, that released capacity becomes usable capacity, or that any downstream result follows. Those are questions for evidence.
 
-> **Evidence status.** 5R is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) framework, derived from the author’s practice. Its five dispositions, its order of questions, and the capacity chain that follows a disposition are proposals that require testing. Established work on lean waste reduction, process redesign, and failure demand informs the framework; it does not validate 5R’s particular ordering or show that 5R adds decision value beyond those methods. The author originated HEE and 5R and has a commercial interest disclosed below. The AKG cases are author-reported practice accounts and are not tests of 5R. The references are a starting map, not a literature review. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+> **Evidence status.** 5R is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) framework, derived from the author’s practice. Its five dispositions, its order of questions, and the capacity chain that follows a disposition are proposals that require testing. Established work on lean waste reduction, process redesign, and failure demand overlaps with the framework in places; it does not validate 5R’s particular ordering or show that 5R adds decision value beyond those methods. The author originated HEE and 5R and has a commercial interest disclosed below. The cases in HEE Case Studies are examples from the author’s experience (author-reported) and are not tests of 5R. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
 
-> **Approach.** HEE does not treat management as a formula that fits every situation. It is a practice-derived way to organize inquiry. Each problem is investigated on its own terms, and practitioners use evidence and judgment to select, adapt, and review what fits the context. HEE supports evidence-informed judgment; it does not replace it.
+> **Approach.** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
 >
 > HEE draws on the author’s experience, knowledge, and wisdom, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
 
@@ -23,9 +25,14 @@
 >
 > In 5R this shows as choosing the disposition that suits each demand in its context and reviewing whether the demand recurs.
 
-**Evidence labels:** **[E]** existing research; **[A]** adaptation of existing ideas; **[P]** proposed and untested; **[H]** practice heuristic; **[Illustrative]** invented example. A label describes the status of a claim, not its certainty in every setting. **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
+**How to read the status of 5R**
 
-**Start here:** [Reader’s guide](#readers-guide) · [Use it today](#use-it-today) · [HEE in four questions](#hee-in-four-questions) · [The Decision Point](#the-decision-point) · [Reader routes](#reader-routes) · [Owner view](#owner-view-one-page) · [Find your question](#find-your-question) · [The five dispositions](#the-five-dispositions) · [Definitions](#definitions-and-distinctions) · [Worked example](#one-case-from-question-to-review) · [Choosing a disposition](#choosing-a-disposition) · [Release and protection](#release-protection-and-redirection) · [Boundaries](#boundaries-and-architecture) · [Theory](#theory-and-contribution) · [Research](#research-agenda-and-tests) · [Go further](#go-further) · [License](#license)
+- **Labels:** **[H]** marks a practice heuristic, a rule of thumb from practice. **[Illustrative]** marks an invented example, not reported evidence. **[P]** marks a specific construct, relationship, or claim that remains untested. Labels are used sparingly: practical instructions and HEE’s practice origin carry none. A label describes the status of a claim, not its certainty in every setting.
+- **Unknown and Not recorded:** **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
+- **What would change 5R:** see [Open questions](#research-agenda-and-tests). What would narrow or retire 5R is in [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#5r-research-agenda-and-tests).
+- **What 5R is not:** not validated, not shown to be better than lean waste reduction, process redesign, or failure demand analysis, and not a clinical, compliance, or audit tool.
+
+**Start here:** **[Use it today](#use-it-today)** is the front door: three questions and a worked example. Then use the [Reader’s guide](#readers-guide) for your role, or [Find your question](#find-your-question). The other sections, such as [Definitions](#definitions-and-distinctions), [Open questions](#research-agenda-and-tests), and [License](#license), are reached from these.
 
 5R is readable on its own; cross-references exist because it is one of a family of companion frameworks, not a comprehensive method.
 
@@ -39,19 +46,26 @@ Every organization has work that keeps coming back. This guide shows where to en
 | **CEO, C-suite, and owners** | One recurring demand, a necessity check, a candidate disposition, and a named destination for any capacity released | [Use it today](#use-it-today), [Owner view: one page](#owner-view-one-page). Then skim: [The Decision Point](#the-decision-point) | Pick one recurring demand and name its owner | 15 min |
 | **Operations managers and team leaders** | A demand split into parts, a disposition for each part, and a first reversible step | [One case from question to review](#one-case-from-question-to-review), [Choosing a disposition](#choosing-a-disposition). Then skim: [The five dispositions](#the-five-dispositions) | Take one weekly report, approval, or chase and walk it through the order of questions | 25 min |
 | **Practitioners and consultants** | A repeatable record that separates a change in activity from what happens to capacity | [Choosing a disposition](#choosing-a-disposition), [The disposition record](#the-disposition-record). Then skim: [Release, protection, and redirection](#release-protection-and-redirection), [Working principles](#working-principles) | Fill in the disposition record for one demand with a client or team | 40 min |
-| **Academics** | A bounded contribution claim set against lean, process redesign, and failure-demand work | [Theory and contribution](#theory-and-contribution), [What 5R contributes](#what-5r-contributes). Then skim: [Boundaries and architecture](#boundaries-and-architecture) | State what 5R adds beyond those methods and what would narrow the claim | 25 min |
-| **Researchers** | A study question, competing explanations, measures, and narrowing or rejection criteria | [Research agenda and tests](#research-agenda-and-tests), [Disposition coding sheet and first reliability check](#disposition-coding-sheet-and-first-reliability-check). Then skim: [Definitions and distinctions](#definitions-and-distinctions) | Plan the classification-reliability check before testing any downstream claim | 30 min |
+| **Researchers** | Open questions and how 5R could be tested | [Open questions](#research-agenda-and-tests), then [5R: research agenda and tests](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#5r-research-agenda-and-tests) in Research notes | Choose one open question and plan a fair test | 30 min |
 | **New to HEE** | The difference between a demand, an activity, a disposition, and a result | [Use it today](#use-it-today), [The five dispositions](#the-five-dispositions). Then skim: [HEE in four questions](#hee-in-four-questions) | Read the worked example and name one demand of your own | 10 min |
 
 *Times are suggested allocations, not measured; reading speeds differ. Take-aways describe what a reader can use, not an outcome this document can assure. The first useful step is a suggestion; the decision stays yours.*
 
+**Also useful for any role:** [The Decision Point](#the-decision-point) for judging a decision, and [HEE in four questions](#hee-in-four-questions) for the HEE frame before the detail here.
+
+**First step for every role:** write one line each for your Time, Object, and Location ([Start with your context](https://github.com/titumozammel/human-energy-economics#start-with-your-context-when-what-and-where)), then use the role row that fits.
+
 **Only five minutes?** Read [Use it today](#use-it-today), then the worked example inside it.
 
-**You can defer on a first reading:** the research agenda, coding sheet, and theory sections, unless you are an academic or researcher. Read the evidence-status summary before applying the guidance.
+**You can defer on a first reading:** the Related approaches note and the Open questions, unless you are a researcher. Read the evidence-status summary before applying the guidance.
 
 ## Use it today
 
+You do not need to know the rest of HEE to use this card. Start with one situation from your own work.
+
 **Use it when:** you already know a recurring demand exists and need to decide what should happen to it.
+
+**Start with context:** When, what, and where is the demand? The same demand can warrant a different disposition in a different context. ([Start with your context](https://github.com/titumozammel/human-energy-economics#start-with-your-context-when-what-and-where))
 
 **Ask:**
 
@@ -81,6 +95,8 @@ Every organization has work that keeps coming back. This guide shows where to en
 
 **Where it does not fit:** 5R decides what should happen to a demand. It does not carry out the change, release capacity, or create value by itself. If you do not yet know whether the demand is necessary, start with [OSF](https://github.com/titumozammel/operational-silence-framework#use-it-today).
 
+**A useful next step:** before you act, ask the four [Decision Point](#the-decision-point) questions about your decision; afterwards record in a few lines what you saw, what you changed, and what you will check next cycle, then look again.
+
 **Go deeper:** [The five dispositions](#the-five-dispositions) · [Choosing a disposition](#choosing-a-disposition) · [One case from question to review](#one-case-from-question-to-review)
 
 **Not sure this is the right tool?** [Find your situation](https://github.com/titumozammel/human-energy-economics#find-your-situation) lists six situations and the tool for each. · [HEE Core](https://github.com/titumozammel/human-energy-economics)
@@ -91,11 +107,11 @@ Every organization has work that keeps coming back. This guide shows where to en
 
 **1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. The 5R Cascade Framework (5R) is the proposed method for choosing what should happen to a recurring demand once its necessity has been examined: Remove, Reduce, Replace, Re-engineer, or Retain.
 
-**2. What does HEE contribute?** HEE proposes a connected way to examine what limits execution, trace the supporting evidence, and make decisions and their consequences reviewable. It separates whether capacity expenditure was *Justified?* from whether legitimate next-cycle demand is *Covered?* This is a proposed contribution, not an established finding or a demonstrated advantage over existing approaches. 5R adds a decision method in which Retain is a full outcome, not a failure.
+**2. What does HEE contribute?** HEE offers one connected way to ask three things: what limits execution, what evidence supports the answer, and whether others can review the decision and its results. It also asks two separate questions: was the capacity we used *Justified?*, and is the real demand of the next cycle *Covered?* This is a proposal. It is not yet an established finding, and it is not shown to be better than other approaches. 5R adds a decision method in which Retain is a full outcome, not a failure.
 
-**3. How do I apply it to my problem?** *Context shapes the route.* Start with the observable problem and the decision you need to make, then choose and combine **Diagnose** (investigate possible causes), **Establish** (gather the evidence needed for a defensible determination), and **Verify** (compare practice with a stated standard). These are complementary routes, not compulsory sequential stages; reconsider the route as evidence or conditions change. Every route depends on context and evidence. Use this document when a recurring demand has been examined for necessity and its disposition must be chosen.
+**3. How do I apply it to my problem?** *Context shapes the route.* Start with the problem you can see and the decision you need to make. Then choose and combine three routes: **Diagnose** (look for possible causes), **Establish** (collect the evidence you need for a sound conclusion), and **Verify** (compare what is done with a stated standard). The routes work together; you do not have to follow them in order. Change the route when the evidence or the conditions change. Every route depends on context and evidence. Use this document when a recurring demand has been examined for necessity and its disposition must be chosen. The Core’s signature question is: *What prevents the capability we have from becoming execution—and what must change next?*
 
-**4. How should I use HEE?** Use HEE as a practical way to ask better questions and review decisions with your own evidence and judgment. It supports inquiry; it does not replace specialist judgment. Check in your own case whether the order of questions improves the decision, whether others classify the dispositions the same way, and whether released capacity becomes usable capacity. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
+**4. How should I use HEE?** Use HEE to ask better questions and to review decisions with your own evidence and judgment. It supports your thinking; it does not replace expert judgment. Check in your own case whether the order of questions improves the decision, whether others classify the dispositions the same way, and whether released capacity becomes usable capacity. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
 
 ## The question 5R answers
 
@@ -114,8 +130,7 @@ A report is produced every week. A request type arrives every day. An approval, 
 | Owner or executive | [Owner view](#owner-view-one-page), then [Boundaries](#boundaries-and-architecture) | One recurring demand, a necessity check, a candidate disposition with its evidence, an owner, a stop rule, and a named destination for any capacity released |
 | Practitioner or manager | [Worked example](#one-case-from-question-to-review), then [Choosing a disposition](#choosing-a-disposition) | A demand split into parts, a disposition for each part, the alternatives still open, and a first reversible step |
 | Auditor or governance lead | [Before changing anything](#before-changing-anything-necessity-and-legitimacy) | A purpose-and-safeguards check before any control, report, or approval is removed or reduced |
-| Academic | [Theory and contribution](#theory-and-contribution) | A bounded contribution claim and its relationship to lean, process redesign, and failure-demand analysis |
-| Researcher | [Research agenda and tests](#research-agenda-and-tests), then the [coding sheet](#disposition-coding-sheet-and-first-reliability-check) | A study question, competing explanations, measures, and narrowing or rejection criteria |
+| Researcher | [Open questions](#research-agenda-and-tests), then [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#5r-research-agenda-and-tests) | The open questions, study designs, and what would narrow or retire 5R |
 | Learner | [The five dispositions](#the-five-dispositions), then the [worked example](#one-case-from-question-to-review) | The difference between a demand, an activity, a disposition, and a result |
 
 Read in sequence only if useful. Follow the question map when you have a specific decision to make.
@@ -137,7 +152,7 @@ Read in sequence only if useful. Follow the question map when you have a specifi
 
 **Do not:** reduce a demand before asking whether it should exist; remove a control because it is slow; replace a mechanism before asking whether its demand is legitimate; treat saved time as usable capacity or as value. A disposition is a decision, not a result: the capacity it releases is not yet usable capacity, and what happens to it is a separate question.
 
-What 5R has and has not shown is in the [evidence status](#5r-cascade-framework) and the [AKG relationship](#relationship-to-the-akg-practice-record).
+What 5R has and has not shown is in the [evidence status](#5r-cascade-framework) and the [AKG relationship](#relationship-to-the-hee-case-studies-practice-record).
 
 ## Find your question
 
@@ -154,15 +169,15 @@ What 5R has and has not shown is in the [evidence status](#5r-cascade-framework)
 | What happens to the capacity I free up? | Protect and direct | Owner, manager | [Release, protection, and redirection](#release-protection-and-redirection): naming a destination, an owner, and a review date | A destination, an owner, and a review date |
 | How do 3C, OSF, and 5R fit together? | Route | Practitioner | [Boundaries](#boundaries-and-architecture) | Whether the next step belongs to 3C, OSF, HEEn, or elsewhere |
 | How do four decision concepts apply to this choice? | Separate assessments | Owner, learner, auditor | [The Decision Point](#the-decision-point) | What to improve and what evidence to review |
-| What do the AKG cases establish about 5R? | Judge practice evidence | Academic, practitioner | [AKG record](#relationship-to-the-akg-practice-record) | Whether an example informs a hypothesis or needs a new test |
-| What would support, narrow, or falsify 5R? | Design a fair test | Researcher | [Research tests](#research-agenda-and-tests) | Which study to run and what claim to revise |
+| What do the practice cases establish about 5R? | Judge practice evidence | Researcher, practitioner | [Case studies](#relationship-to-the-hee-case-studies-practice-record) | Whether an example informs a hypothesis or needs a new test |
+| What would support, narrow, or falsify 5R? | Design a fair test | Researcher | [Open questions](#research-agenda-and-tests) | Which study to run and what claim to revise |
 | Which HEE repository should I read next? | Route onward | All readers | [Go further](#go-further) | Where to continue without reading every repository |
 
 *Not sure where to begin? [Find your situation](https://github.com/titumozammel/human-energy-economics#find-your-situation) lists six situations and the tool for each.*
 
 ## The five dispositions
 
-This table is the **canonical representation of the five dispositions in this document [H]**. The order of questions, the evidence-pattern table, the case, and the coding sheet restate or apply it; they are not additional or competing models.
+This table is the **canonical representation of the five dispositions in this document [H]**. The order of questions, the evidence-pattern table and the case restate or apply it; they are not additional or competing models.
 
 | R | Governing question | Decision | Primary target |
 | --- | --- | --- | --- |
@@ -250,9 +265,11 @@ Within HEE, consequential decisions along the pathway from capability to sustain
 3. **Decision Quality:** whether the choice was appropriate given what could reasonably be known.
 4. **Decision Outcome Quality:** what actually happened.
 
+**What counts as a decision.** In HEE, a decision is a choice about what to do, including waiting or taking no action. A reviewable decision records its reasons, evidence, and uncertainty in proportion to the stakes. A choice made without such a record is still a decision, but HEE cannot fully assess its basis; add the reasons and evidence if you want it reviewed.
+
 **Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
 
-Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its objective, legitimate demand, available evidence, constraints, alternatives, uncertainty, timing, and consequences.
+Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its Time, Object, and Location, together with the legitimate demand, available evidence, constraints, alternatives, uncertainty, and consequences.
 
 **The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
@@ -283,7 +300,7 @@ Whether this order improves decisions, classification reliability, or outcomes b
 
 ## One case from question to review
 
-**All teams, quantities, thresholds, periods, and results below are invented [Illustrative]. This is neither an AKG case nor evidence for 5R.**
+**All teams, quantities, thresholds, periods, and results below are invented [Illustrative]. This is neither a practice case nor evidence for 5R.**
 
 An accounts-payable team receives supplier status inquiries. Leaders ask how to answer them faster. A better first question is: **why do suppliers have to ask, and which of these inquiries need a person?**
 
@@ -489,7 +506,7 @@ Record each as *measured*, *estimated*, or *merely expected*, and keep the three
 
 ## Boundaries and architecture
 
-HEE is the provisional capacity lens informed by economic questions. **OEOS** is the proposed operating architecture; **HEMS**, **HEA**, **HERF**, and **HEDP** are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. 5R is a decision method for one kind of choice. It is not an operating system, a diagnostic condition, or an intervention in the Core’s sense.
+HEE is the capacity lens informed by economic questions. **OEOS** is the proposed operating architecture; **HEMS**, **HEA**, **HERF**, and **HEDP** are Human Energy and capability-management components documented within the Core. These are proposed constructs, not validated systems. 5R is a decision method for one kind of choice. It is not an operating system, a diagnostic condition, or an intervention in the Core’s sense.
 
 | Related element | Its role | 5R boundary |
 | --- | --- | --- |
@@ -522,101 +539,46 @@ An eight-level maturity progression is offered as an optional set of prompts, **
 | 7. Value-directed | “Where should released capacity go?” | Released capacity is deliberately directed |
 | 8. Capacity-expanding | “How can released and protected capacity strengthen future execution capacity?” | Release is linked to future capacity |
 
-## Relationship to the AKG practice record
+## Relationship to the HEE Case Studies practice record
 
-The [AKG Record](https://github.com/titumozammel/hee-case-studies) describes six author-reported interventions associated with HEE’s development and maps them retrospectively to dispositions: two to Replace (Performance Wizard; RDP / Restart), two to Re-engineer (Hardware Health; Report), one to Re-engineer and Retain (Procurement, a retain-and-redesign case and not a drain-removal case), and one to Enable (Capability, an enablement case rather than a 5R disposition). **None of the six is documented as a Remove or Reduce case.**
+Readers are invited to recognize HEE’s questions and reasoning in the author’s practice cases, consider what fits their own context, and apply it with proportionate evidence and judgment.
 
-That is a retrospective reading. The record does not document the necessity tests applied, the alternative dispositions considered, who classified each case, or where any released capacity went, which is **Not recorded** and therefore **Unknown** for all six. The figures are author-reported and not independently verified, and the record was not designed to test 5R. Where another document lists the dispositions with arrows, read them as an order of questions, not a sequence every demand must pass through.
+The [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) gives eight examples from the author’s experience (one at RR Transport, one at Bismillah Transport, and six at AKG). HEE was not named when they happened. The author maps them in retrospect to dispositions: one to Replace (RDP / Restart), one to Reduce (Performance Wizard), three to Re-engineer (Hardware Health; Report; RR Transport, which also replaced manual books with an application and reduced roadside breakdowns), one to Re-engineer and Retain (Procurement, a retain-and-redesign case and not a drain-removal case), and two to Enable (Capability; Bismillah Transport’s vehicle-wise profit and loss; enablement cases rather than 5R dispositions). **None of the eight is documented as a Remove case.**
+
+That is a retrospective reading. The record does not document the necessity tests applied, the alternative dispositions considered, who classified each case, or where any released capacity went beyond one author-reported use (continuing user growth in the support cases, Cases 3 and 5; more trips in RR Transport, Case 1); elsewhere it is **Not recorded** and therefore **Unknown**. The figures are author-reported and not independently verified, and the record was not designed to test 5R. Where another document lists the dispositions with arrows, read them as an order of questions, not a sequence every demand must pass through.
 
 Do not use the cases to claim that the five dispositions are distinct, that assessors can classify them reliably, that the order of questions improves decisions, or that any released capacity became value. They can motivate a study; they cannot validate 5R. The record says only that the author reports changes in demand, and it treats them as author-reported.
 
 The author remains Chief Innovation Officer at AKG. His operational involvement and originator role are material to interpreting the practice accounts. Research use requires appropriate authority, confidentiality, provenance, and access arrangements; no access is implied here.
 
-## Theory and contribution
+<a id="theory-and-contribution"></a>
 
-*For readers who want the positioning argument; owners can skip to the research agenda.* 5R does not claim that questioning whether work should exist is newly discovered. Each of its orientations has established antecedents, and the proposed contribution is how they are ordered and combined with a legitimacy check and a capacity follow-up. 5R is informed by established traditions **[E/A]**:
+## Related approaches
 
-- **Lean and the Toyota Production System.** Taiichi Ohno’s classification of waste and the lean tradition built on it give a method for identifying non-value-adding activity. *Lean asks* what is waste in the flow of value. *5R keeps that concern* and *includes* a Retain disposition and a necessity check, and starts from the demand rather than the classification of an activity. Lean and 5R may overlap substantially, and 5R does not claim to replace lean.
-- **Business process reengineering.** Michael Hammer’s “Don’t automate, obliterate” (1990) is a close antecedent of *simplify before automating*. *Reengineering asks* how a process could be radically redesigned. *5R’s Re-engineer* is narrower: it concerns the condition that regenerates one recurring demand, and it is one of five dispositions rather than the whole approach.
-- **Failure demand.** John Seddon’s distinction between value demand and failure demand (demand caused by a failure to do something, or to do it right, for the customer) is the nearest antecedent to the idea that demand may be a symptom. *Failure-demand analysis asks* what demand arises from failure. *5R’s Re-engineer shares that orientation* and *applies it* to internal as well as customer-facing demand and adds Remove, Reduce, Replace, and Retain as parallel dispositions. Failure-demand analysis is the primary comparator in the tests below.
-- **Effectiveness before efficiency.** Peter Drucker’s widely quoted remark that there is nothing so useless as doing efficiently that which should not be done at all expresses the premise of the first question. It is an antecedent, not support for 5R’s particular order.
-- **Ordering heuristics in work study.** Heuristics that order questions from elimination toward simplification (the eliminate-combine-rearrange-simplify pattern, for example) are long established in work study and lean practice. Locating their earliest sources and mapping them to the five dispositions belongs to the literature-positioning test, not to this document.
+5R's questions are close to well-known approaches: lean waste reduction, business process reengineering, failure-demand analysis, and the habit of asking whether work should be done before improving how it is done. 5R does not claim these ideas are new, and it has not been compared with them in a fair test. Use 5R together with any of them where they fit.
 
-The syntheses are the author’s reading of these traditions **[A]**, not a literature review. “Includes” describes 5R’s content; whether those elements are absent from the established approaches is what the literature-positioning test is for.
+5R adds a narrow claim **[P]**: an order for considering the five dispositions for a recurring demand (not a mandatory sequence), a legitimacy check, Retain as a full disposition, and a record that carries the choice through protection, destination, and coverage. This claim is untested. If the five dispositions cannot be told apart or classified reliably, 5R is best used as a set of question prompts.
 
-The proposed contribution **[P]** is narrow: an order for considering dispositions for a recurring demand (not a mandatory intervention sequence), with a legitimacy check and Retain as a first-class disposition, and a disposition record that carries the choice through protection, destination, and coverage. Whether this adds decision value beyond lean, process redesign, and failure-demand analysis must be tested against credible alternatives with comparable evidence and effort. The five dispositions may overlap substantially with each other and with established ideas; 5R does not presently show that they are distinct. If the tests below find that they collapse, narrow 5R to a set of question prompts.
+The comparison questions and unverified reading leads are in [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#related-approaches-and-comparison-questions). They are not evidence for 5R.
 
-| Approach | Primary starting point | Proposed 5R distinction (to be tested, not established) |
-| --- | --- | --- |
-| Traditional process improvement | The process | Asks first whether the recurring demand behind the process should exist |
-| Lean waste reduction | Waste or non-value-adding activity | Starts from demand and necessity rather than an activity classification; includes Retain; the two overlap |
-| Business process reengineering | A radical redesign of the process | Re-engineer is one disposition, aimed at the recurrence of one demand |
-| Failure-demand analysis | Demand caused by failure | Treats failure-driven recurrence as one case among five dispositions |
-| Automation | The activity | Asks whether the demand should exist or be simplified before automating |
-| Cost reduction | Expenditure | Examines recurring demand and capacity consumption, not expenditure |
-| Capacity planning | Estimating and allocating capacity | Challenges whether recurring demand should consume that capacity |
-| Workload management | Existing workload | Questions what creates recurring workload |
-| Execution management | Producing intended results | Acts upstream on demand that consumes capacity needed for execution |
-| OSF | Unnecessary recurring operational demand | OSF diagnoses necessity and tracks release; 5R chooses the disposition |
-| 3C | Where to look | 3C indicates where attention may belong; 5R determines the disposition |
+<a id="research-agenda-and-tests"></a>
 
-**Research versus practice.** A heuristic may help structure inquiry without being a validated causal model. Retain, merge, narrow, or retire labels when evidence does not support their intended role.
+## Open questions
 
-**References.** Drucker, P. F. (1963). Managing for business effectiveness. *Harvard Business Review, 41*(3), 53–60. · Hammer, M. (1990). Reengineering work: Don’t automate, obliterate. *Harvard Business Review, 68*(4), 104–112. · Ohno, T. (1988). *Toyota Production System: Beyond Large-Scale Production*. Productivity Press. · Seddon, J. (2003). *Freedom from Command and Control: A Better Way to Make the Work Work*. Vanguard Education. · Womack, J. P., & Jones, D. T. (1996). *Lean Thinking*. Simon & Schuster. See the [HEE Core](https://github.com/titumozammel/human-energy-economics) for its broader evidence map. These references establish antecedents, not validation of 5R.
+These questions are still open. Each needs a fair test before 5R can claim more than practice.
 
-## Research agenda and tests
+- Can two people classify the same recurring demand into the same dispositions?
+- Are the five dispositions different enough to keep as five?
+- Does the 5R order of questions lead to better choices than another order, or than a structured failure-demand analysis?
+- Does the legitimacy check protect necessary controls from being removed by mistake?
+- Does Replace create new demand that cancels the saving?
+- Can readers find what they need faster in this guide?
 
-The following are proposed 5R study questions, **not newly registered Core propositions**. References to P5, P10, P11, P13, and P15 indicate links to existing Core tests, not a claim that these studies have occurred or been preregistered.
+The study designs, test tables, coding sheet, reliability procedure, and what would narrow or retire 5R are in Research notes: [5R: research agenda and tests](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#5r-research-agenda-and-tests). You do not need them to use 5R. To try 5R in your own setting now, use the learner exercise in [Go further](#go-further).
 
-**Which test to run first.** Start with *disposition classification reliability* using the [coding sheet](#disposition-coding-sheet-and-first-reliability-check), because claims that depend on disposition labels need reliable classification. Comprehension and reader-utility studies can proceed separately, and the prompts may prove useful even if some labels overlap. The *literature-positioning* test is desk-based and can run in parallel. Run the *order of questions* test only after reliability is acceptable. Protection, reabsorption, recurrence, and the Operational Silence Index are tested under [OSF](https://github.com/titumozammel/operational-silence-framework#research-agenda-and-tests); 5R does not duplicate them.
+<a id="disposition-coding-sheet-and-first-reliability-check"></a>
+The coding sheet and first reliability check are in Research notes: [5R coding material](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#disposition-coding-sheet-and-first-reliability-check).
 
-| Test | Core proposition | Design and measures | Evidence supporting a bounded claim | Evidence weakening or narrowing it |
-| --- | --- | --- | --- | --- |
-| Disposition classification reliability | None: 5R-specific (parallels P11) | The investigator defines the parts of each packet before rating, so that raters classify the same units (if raters segment packets themselves, report segmentation agreement separately). Independent assessors record every applicable disposition for each part, with its target and rationale, and a primary label where one applies, before discussion; allow Unknown and Outside 5R; report raw and chance-corrected agreement on the primary label and, separately, agreement on the set of dispositions named, with intervals; pre-register thresholds | Agreement exceeds a pre-specified threshold | Adequately documented packets cannot be classified reliably; revise definitions or reduce 5R to prompts |
-| Distinctness of the dispositions | None: 5R-specific | For the same packets, have each independent assessor state, **before naming any disposition,** the evidence each of the five dispositions would prompt them to seek (a within-assessor comparison, so the similarity reflects the dispositions and not an assessor’s prior choice). Because assessors trained on 5R may produce evidence requests that reflect the training, and may differentiate them to perform the expected distinction (a demand-characteristics threat), add a comparison arm of naive assessors who receive only the five questions and are not told the purpose of the study, and blind the coders to arm; report both arms and examine whether differences reflect learning, demand characteristics, or instruction differences; the comparison alone cannot distinguish these explanations. Then: code each request into a pre-specified evidence-type list (for example use and purpose records, volume and effort records, mechanism and upkeep records, recurrence and upstream records, duty and safeguard records); for each packet compute the Jaccard similarity between the sets of evidence types prompted by each pair of dispositions, report the mean and range, and report agreement between assessors on a three-way judgment (*distinct / overlapping / indistinguishable*) for each pair; pre-specify and justify the thresholds before analysis, setting them from pilot data | The dispositions prompt meaningfully different evidence and choices | The requests converge or the labels are used interchangeably; examine the overlap, because different responses can legitimately use the same evidence, and merge dispositions only if their response targets and decision criteria cannot be meaningfully distinguished |
-| Order of questions | None: 5R-specific (relates to P10 Stage 0) | Give blinded expert panels the same packets and ask them to rate the fit to the evidence, the risk to necessary controls, and the reversibility of choices reached by four arms with comparable time and information: **(a)** the 5R order; **(b)** the same five questions in a shuffled order fixed and registered before data collection (or counterbalanced across panels), which isolates order from content; **(c)** a cause-first order (Re-engineer asked first); and **(d)** a named generic checklist, an Ohno-style seven-wastes sheet, version-controlled before the study. Pre-specify the minimum meaningful benefit and how a result will be read from its interval: support for a meaningful ordering advantage requires the interval to satisfy the pre-specified criterion (for example, its lower bound exceeding the minimum meaningful benefit), not a point estimate alone; a favorable difference that does not satisfy it is read by its interval. If the interval rules out the minimum meaningful benefit, it is evidence against a meaningful advantage; if it includes both negligible and meaningful benefit, it is inconclusive. No meaningful difference between question orders provides no support for an ordering advantage; it does not by itself establish that the content is effective | The 5R order yields choices rated better fitted and lower risk | No meaningful difference, with an interval that rules out the minimum meaningful benefit; withdraw the claim that the order matters and keep the questions as a checklist |
-| Incremental decision value | None: 5R-specific (shares packets with OSF’s disposition-divergence test) | Compare 5R-guided choices with a named, versioned comparator using equal information, attention, and expertise: **primary:** a structured failure-demand analysis; **secondary:** an Ohno-style seven-wastes checklist, and OSF’s six necessity tests followed by an unprescribed choice of response (no set order of dispositions). Blinded experts rate evidence fit and intervention fit | Consistent, justified differences in choices or evidence requests | No meaningful difference, with an interval that rules out the minimum meaningful benefit; narrow novelty to the legitimacy check and the disposition record |
-| Legitimacy protection | None: 5R-specific | Use vignettes that embed a necessary control and a genuinely unnecessary one; compare how often each approach proposes removing the necessary control and how often it fails to flag the unnecessary one | Fewer wrongful removals without missing unnecessary demand | No meaningful difference, with an interval that rules out the minimum meaningful benefit; keep Retain as good practice and withdraw the claim that 5R provides the protection |
-| Replacement net demand | None: 5R-specific (relates to P13) | In comparable workflows, compare demand before and after a Replace, counting the new mechanism’s own upkeep, exceptions, and support requests; pre-register the observation horizon (at least one full cycle of the mechanism’s own upkeep and exception handling) and a delayed follow-up at a stated longer interval; report both, and treat a reversal at the delayed follow-up as evidence that the saving was transient | Net demand falls after the mechanism’s own demand is counted | The mechanism’s demand offsets the saving; qualify Replace and require net-demand measurement |
-| Literature positioning | None: 5R-specific (unowned; parallels the P12 synthesis) | A documented, protocol-based review of lean, process redesign, failure demand, and work-study ordering heuristics; two independent coders map each 5R element and question to the nearest established construct, with the search strategy and disagreements recorded | Documented gaps: at least one 5R element (Retain as a first-class disposition, the legitimacy check, the disposition record) has no close established equivalent | Two or more independent coders map every 5R element onto an existing construct with agreement above a pre-specified threshold; narrow 5R to a disposition vocabulary |
-| Reader utility | P15 | Representative role-based tasks using this document versus a credible comparator; predefine completion-time and blinded quality criteria | Faster answers without unacceptable quality loss | Speed worsens or important answers cannot be found; revise routing |
-
-**What would retire or narrow 5R.** This is a document-level view; the Core README’s [framework-level table](https://github.com/titumozammel/human-energy-economics#what-would-reduce-or-retire-hee-as-a-whole-p) states the consequences for HEE as a whole.
-
-| If a fair test finds | Then |
-| --- | --- |
-| Assessors cannot classify dispositions reliably | 5R is a set of prompts, not a classification; do not report disposition labels as findings |
-| The dispositions cannot be told apart | Examine the overlap; if their response targets and decision criteria also cannot be meaningfully distinguished, merge them and withdraw the claim that there are five distinct dispositions |
-| The 5R order yields no meaningfully better choices than another order (the interval rules out the minimum meaningful benefit) | Keep the questions as a checklist; withdraw the claim that the order matters |
-| 5R-guided choices do not meaningfully differ from a structured failure-demand analysis (the interval rules out the minimum meaningful benefit) | 5R is a disposition vocabulary on top of existing methods rather than a new approach |
-| Necessity-first practice does not reduce wrongful removal | Keep the legitimacy check as good practice; withdraw the claim that 5R provides it |
-| Replacement routinely creates demand that offsets the saving | Qualify Replace; require net-demand measurement before claiming release |
-| Fair tests of reliability, distinctness, order, and incremental value all fail, and the literature-positioning review maps every element onto existing constructs | Reject 5R as a distinct method; keep the questions as optional prompts |
-
-**Minimum study protocol.** Follow the eight-item protocol in [HEEn](https://github.com/titumozammel/human-energy-enablement#minimum-study-protocol): claim, unit and setting; operational definitions; comparison; outcomes; design; decision rules; governance; and registration and reporting. A sufficiently precise null or contrary result after a fair test should narrow or reject the specified claim. Comparative tests pre-specify the minimum meaningful benefit and read results from intervals, as in the order-of-questions test, not from a point estimate alone. Do not rescue a failed claim by changing definitions after seeing outcomes. See also the Core’s [falsification summary](https://github.com/titumozammel/human-energy-economics#falsification-summary-where-to-start-p).
-
-### Disposition coding sheet and first reliability check
-
-This is a starter instrument **[P]** for the disposition classification test. All packets are **[Illustrative]** and show how the check works; they are not findings. Eight packets are enough to train raters and pilot the sheet, not to estimate reliability, which needs a sample sized in advance.
-
-**Rating sheet (one row per part and rater).** Record: packet ID and part; rater; every applicable disposition (*Remove / Reduce / Replace / Re-engineer / Retain, singly or in combination, or Unknown / Outside 5R*), its target (the existence, consumption, method, or cause it addresses), and a one-line rationale, with a primary label where one applies; the answers to the six tests from [OSF](https://github.com/titumozammel/operational-silence-framework#diagnose-is-this-recurring-demand-and-is-it-unnecessary) (*Yes / No / Unknown*); the evidence cited; the legitimacy of the demand (*legitimate / unnecessary / Unknown*); and what further evidence the rater would request. Raters work independently and do not discuss packets until agreement has been computed.
-
-**Provisional coding rule [P].** Code the disposition that the packet’s evidence most directly supports for the demand as stated, not the one the rater finds most plausible or would try first; the order of questions is tested separately. A part may carry more than one disposition (for example, Retain and Reduce): record each, and name the primary one only if the evidence ranks them. Where a packet’s parts call for different dispositions, the investigator defines the parts before rating. Code *Unknown* when the evidence supports none, and *Outside 5R* when the primary problem is missing capability, blocked access or authority, or a capacity shortfall (any recurring demand it generates can be rated separately). Revise the rule if raters cannot apply it, and version every revision.
-
-| ID | Case packet | What it is designed to test |
-| --- | --- | --- |
-| D1 | Seven of nine report sections have no named reader or decision; recipients and the compliance owner were asked and found no continuing use or duty | Remove, where affirmative evidence supports it (without that checking, the same packet would be Unknown) |
-| D2 | A monthly review pack carries 40 metrics; five drive named decisions; the owner calls the rest “background” | Retain for the five decision-linked metrics; Unknown for the remaining 35 until their purposes and users are checked. Reduce becomes a candidate if that review establishes disproportionate scope |
-| D3 | Suppliers ask for payment dates the system already holds | Replace: the need is legitimate, the mechanism is the problem |
-| D4 | The same labeling error is reworked each month; the source step is unchanged | Re-engineer: recurrence and a candidate source |
-| D5 | A quarterly filing is required by a named regulation, with effort in line with similar filers | Retain: a clear legitimate demand |
-| D6 | Refund requests above a limit wait for one approver; the limit’s purpose is not recorded | Unknown: do not force a disposition; test before changing a control |
-| D7 | A weekly meeting has two decision items and mostly repeated status; nine attend, four are named on the decision items | Two predefined parts and combinations: retain the decision items (possibly with Reduce for attendance); the status could move to a shared board (Replace) |
-| D8 | Tickets stay open because the team lacks access to a system it is trained to use | Outside 5R: an enablement condition, routed to HEEn |
-
-**Worked coded case [Illustrative]: D7.** The investigator predefines two parts from six weeks of agendas with minutes per item: *Part A*, the two decision items (35 of 90 minutes); *Part B*, the repeated status (55 of 90 minutes). Nine people attend; the minutes name four on the decision items. *Rater A:* Part A, Retain; Part B, Replace (a shared board). *Rater B:* Part A, Retain as primary with Reduce also applicable (attendance limited to the four); Part B, Replace. *Agreement, computed before discussion:* the primary labels agree on both parts (2 of 2); the sets agree on Part B and differ on Part A (1 of 2). *Reconciliation, after agreement is computed:* the attendance question rests on a single reading of the minutes, so record Part A as Retain with Reduce as a candidate that needs the owner’s evidence of who must be present. Had the parts not been predefined, A might have rated the meeting as one unit and B as two; their labels could not then have been compared directly.
-
-**First reliability procedure [P].** (1) Pre-specify the threshold, the sample size, and the coefficients before rating. (2) Train raters on three packets; do not reuse them for the estimate. (3) Rate fresh packets independently, giving every rater the same evidence and the same predefined parts, with *Unknown* and *Outside 5R* allowed and counted as categories. (4) Report raw agreement, a chance-corrected coefficient (for two raters, Cohen’s kappa), and an interval for the primary label of each part, and separately the agreement on the set of dispositions named. (5) Only then discuss disagreements, revise the rule, and record the version. (6) Re-rate a fresh set under the revised rule. (7) Compare the evidence each rater would request, because raters can agree on a label and still ask for different evidence. The arithmetic of raw agreement, kappa, and an interval is shown in the [worked reliability example in OSF](https://github.com/titumozammel/operational-silence-framework#necessity-coding-pack-and-first-reliability-check); the numbers there are illustrative and carry no evidence about 5R.
 
 ## Go further
 
@@ -628,7 +590,6 @@ Choose the destination that answers your next question. You need not read every 
 | [Human Energy Economics](https://github.com/titumozammel/human-energy-economics) | How do I connect question, method, evidence, decision, and follow-up across the full capacity lens? |
 | [Operational Silence Framework](https://github.com/titumozammel/operational-silence-framework) | Does this recurring demand need to exist in this form? |
 | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
-| [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
 | [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
 | [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
@@ -643,7 +604,7 @@ Think of one recurring demand you handle: a report, a request, an approval, a me
 
 **Author position and disclosure.** The author originated HEE and 5R, serves as Chief Innovation Officer at AKG (Abul Khair Group), Bangladesh, where part of the practice record originated, and has a commercial and professional interest in how HEE and 5R are received. Practice observations from AKG are author-reported, not independent assessment.
 
-**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my own practice I have seen results from it (author-reported; not independently verified). Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
+**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my experience, knowledge, and wisdom as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
 
 ## License
 
