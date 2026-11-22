@@ -88,7 +88,7 @@ Every organization has work that keeps coming back. This guide shows where to en
 
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. It is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. The 5R Cascade Framework (5R) is the method for choosing what should happen to a recurring demand once its necessity has been examined: Remove, Reduce, Replace, Re-engineer, or Retain.
+**1. What is HEE?** Human Energy Economics (HEE) is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to execution and the capacity needed for tomorrow. It is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. The 5R Cascade Framework (5R) is the method for choosing what should happen to a recurring demand once its necessity has been examined: Remove, Reduce, Replace, Re-engineer, or Retain.
 
 **2. What does HEE contribute?** One connected way to ask what limits execution, what evidence supports the answer, and whether others can review the decision. It keeps two judgments separate: was the capacity spent *Justified?*, and will the next cycle’s demand be *Covered?* Whether this adds value beyond existing approaches remains open to independent testing. 5R adds a decision method in which Retain is a full outcome, not a failure.
 
